@@ -7,8 +7,8 @@ web1:
     - mysqli
     - mysql
   after_build:
-  	- "mv pagoda/application/config/database.php application/config/database.php"
+    - "mv pagoda/application/config/database.php application/config/database.php"
   before_deploy:
-  	-	"php pagoda/db_import.php"
+    - "php pagoda/db_import.php"
 db1:
-	name: blog
+  name: blog
