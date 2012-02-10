@@ -1,0 +1,14 @@
+web1:
+  name: codeigniter
+  shared_writable_dirs: 
+    - application/cache
+    - application/logs
+  php_extensions:
+    - mysqli
+    - mysql
+  after_build:
+  	- "mv pagoda/application/config/database.php application/config/database.php"
+  before_deploy:
+  	-	"php pagoda/db_import.php"
+db1:
+	name: blog
