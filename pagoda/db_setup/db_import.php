@@ -30,7 +30,7 @@ mysql_select_db($_SERVER["DB1_NAME"]);
 
 include ('parse.sql');
 
-$parseObj = new ParseSql('ci-demo-blog-setup.sql'); 
+$parseObj = new ParseSql('pagoda/db_setup/ci-demo-blog-setup.sql'); 
 $res      = $parseObj->startParsing(); 
 
 if($res) 
