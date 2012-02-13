@@ -9,6 +9,6 @@ web1:
   after_build:
     - "mv pagoda/application/config/database.php application/config/database.php"
   before_deploy:
-    - "pagoda/db_import.php"
+    - "pagoda/db_setup/db_import.php"
 db1:
   name: blog
