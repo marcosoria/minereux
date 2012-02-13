@@ -1,4 +1,4 @@
-yweb1:
+web1:
   name: codeigniter
   shared_writable_dirs: 
     - application/cache
