@@ -1,4 +1,4 @@
-web1:
+yweb1:
   name: codeigniter
   shared_writable_dirs: 
     - application/cache
@@ -7,8 +7,8 @@ web1:
     - mysqli
     - mysql
   after_build:
-    - "mv /var/www/pagoda/application/config/database.php /var/www/application/config/database.php"
+    - "mv pagoda/application/config/database.php application/config/database.php"
   before_deploy:
-    - "php /var/www/pagoda/db_import.php"
+    - "pagoda/db_import.php"
 db1:
   name: blog
