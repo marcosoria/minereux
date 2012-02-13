@@ -2,6 +2,9 @@
 
 <?php 
 
+print_r ($_ENV);
+print_r ($_SERVER); die;
+
 // $link = mysql_connect('localhost', 'root', 'root');
 $link = mysql_connect($_ENV["DB1_HOST"], $_ENV["DB1_USER"], $_ENV["DB1_PASS"]);
 if (!$link) {
