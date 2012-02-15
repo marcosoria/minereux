@@ -1,6 +1,6 @@
 <?php 
 
-include ('sql_parse.sql');
+include ('sql_parse.php');
 
 if (isset($_SERVER['PLATFORM']) && $_SERVER['PLATFORM'] == 'PAGODA') {
   $link = mysql_connect($_SERVER["DB1_HOST"], $_SERVER["DB1_USER"], $_SERVER["DB1_PASS"]);
@@ -19,14 +19,14 @@ else {
   $parseObj = new ParseSql('ci-demo-blog-setup.sql'); 
 }
 
-echo 'sql file parsing: START' . '<br />';
+echo 'sql file parse: START' . '<br />';
 
 $res      = $parseObj->startParsing(); 
 
 if($res) { 
-  echo 'sql file parsing: SUCCESSFUL';
+  echo 'sql file parse: SUCCESSFUL';
 }
 else {
-  echo 'sql file parsing: FAILED';
+  echo 'sql file parse: FAILED';
 }
 ?>
