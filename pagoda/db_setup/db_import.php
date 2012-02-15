@@ -9,7 +9,7 @@ if (!$link) {
 mysql_select_db($_SERVER["DB1_NAME"]);
 $parseObj = new ParseSql('pagoda/db_setup/ci-demo-blog-setup.sql'); 
 
-echo 'sql file parse: START' . '<br />';
+// echo 'sql file parse: START' . '<br />';
 
 $res      = $parseObj->startParsing(); 
 
