@@ -14,9 +14,9 @@ echo 'sql file parse: START' . '<br />';
 $res      = $parseObj->startParsing(); 
 
 if($res) { 
-  echo 'sql file parse: SUCCESSFUL';
+  // echo 'sql file parse: SUCCESSFUL';
 }
 else {
-  echo 'sql file parse: FAILED';
+  // echo 'sql file parse: FAILED';
 }
 ?>
