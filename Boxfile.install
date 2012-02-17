@@ -1,0 +1,3 @@
+web1:
+  before_deploy:
+    - "php pagoda/db_setup/db_import.php"
