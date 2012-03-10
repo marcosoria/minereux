@@ -7,6 +7,7 @@ web1:
     - mysqli
     - mysql
   after_build:
-    - "mv pagoda/application/config/database.php application/config/database.php"
+    # Move pagoda config file to app/config
+    - "mv pagoda/database.php application/config/database.php"
 db1:
   name: blog
