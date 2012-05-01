@@ -25,6 +25,6 @@ The following is an explanation of how this Quickstart was created so you can us
 
 <pre>
     <code>
-        - "mysql -h $DB1_HOST --port $DB1_PORT -u $DB1_USER -p$DB1_PASS $DB1_NAME < /var/www/pagoda/ci-demo-blog-setup.sql"
+        - "mysql -h $DB1_HOST --port $DB1_PORT -u $DB1_USER -p$DB1_PASS $DB1_NAME &lt; /var/www/pagoda/ci-demo-blog-setup.sql"
     </code>
 </pre>
