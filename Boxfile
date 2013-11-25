@@ -11,3 +11,4 @@ web1:
     - "mv pagoda/database.php application/config/database.php"
 db1:
   name: blog
+  type: mysql
