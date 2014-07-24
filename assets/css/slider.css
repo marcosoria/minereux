@@ -1,0 +1,118 @@
+#cv {
+	width:177px;
+	height:177px;
+	position:relative;
+	background-color:#362c30;
+	-moz-transition:all 1ms ease-in; 
+	-o-transition:all 1ms ease-in;
+}
+#mask { 
+	overflow:hidden;
+}
+#progress { 
+	width:1px;
+	height:1px;
+	position:relative;
+	top:-1px;
+	background-color:#ffd000;
+	-moz-transition:all 1ms linear; /
+	-webkit-transition:all 1ms linear;
+	-o-transition:all 1ms linear;
+	-moz-animation:progress 25s infinite; 
+	-webkit-animation:progress 25s infinite;
+}
+
+#cv ul { 
+	width:708px; 
+    height: 177px;
+	position:relative;
+	left:0px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	-moz-animation:cv-animation 25s infinite; 
+	-webkit-animation:cv-animation 25s infinite;
+
+}
+#cv li { 
+	width:177px;
+	height:177px;
+	position:relative;
+	display:inline; 
+	float:left; 
+	margin:0;
+	padding:0;
+	background-image: url(/assets/images/loader.gif);
+	background-position:50% 50%;
+	background-repeat:no-repeat;
+}
+@-webkit-keyframes cv-animation { 
+	0% {opacity:0;}
+	2% {opacity:1;}
+	20% {left:0px; opacity:1;}
+	22.5% {opacity:0.6;}
+	25% {left:-177px; opacity:1;}
+	45% {left:-177px; opacity:1;}
+	47.5% {opacity:0.6;}
+	50% {left:-354px; opacity:1;}
+	70% {left:-354px; opacity:1;}
+	72.5% {opacity:0.6;}
+	75% {left:-531px; opacity:1;}
+	95% {opacity:1;}
+	99% {left:-531px; opacity:0;} 
+	100% {left:0px; opacity:0;}
+}
+@-moz-keyframes cv-animation { 
+	0% {opacity:0;}
+	2% {opacity:1;}
+	20% {left:0px; opacity:1;}
+	22.5% {opacity:0.6;}
+	25% {left:-177px; opacity:1;}
+	45% {left:-177px; opacity:1;}
+	47.5% {opacity:0.6;}
+	50% {left:-354px; opacity:1;}
+	70% {left:-354px; opacity:1;}
+	72.5% {opacity:0.6;}
+	75% {left:-531px; opacity:1;}
+	95% {opacity:1;}
+	99% {left:-531px; opacity:0;}
+	100% {left:0px; opacity:0;}
+}
+@-webkit-keyframes progress { 
+	0% {width:0px; opacity:0;}
+	2% {width:0px; opacity:1;}
+	20% {width:177px; opacity:1;}
+	22.5% {width:177px; opacity:0;}
+	22.59% {width:0px;}
+	25% {width:0px; opacity:1;}
+	45% {width:177px; opacity:1;}
+	47.5% {width:177px; opacity:0;}
+	47.59% {width:0px;}
+	50% {width:0px; opacity:1;}
+	70% {width:177px; opacity:1;}
+	72.5% {width:177px; opacity:0;}
+	72.59% {width:0px;}
+	75% {width:0px; opacity:1;}
+	95% {width:177px; opacity:1;}
+	98% {width:177px; opacity:0;}
+	100% {width:0px; opacity:0;}
+}
+@-moz-keyframes progress { 
+	0% {width:0px; opacity:0;}
+	2% {width:0px; opacity:1;}
+	20% {width:177px; opacity:1;}
+	22.5% {width:177px; opacity:0;}
+	22.59% {width:0px;}
+	25% {width:0px; opacity:1;}
+	45% {width:177px; opacity:1;}
+	47.5% {width:177px; opacity:0;}
+	47.59% {width:0px;}
+	50% {width:0px; opacity:1;}
+	70% {width:177px; opacity:1;}
+	72.5% {width:17px; opacity:0;}
+	72.59% {width:0px;}
+	75% {width:0px; opacity:1;}
+	95% {width:177px; opacity:1;}
+	98% {width:177px; opacity:0;}
+	100% {width:0px; opacity:0;}
+}
