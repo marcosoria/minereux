@@ -38,6 +38,38 @@
 |
 */
 
+
+$route['admin'] = 'admin/home';
+$route['admin/home/do_login'] = 'admin/home/do_login';
+$route['admin/home/logout'] = 'admin/home/logout';
+
+//$route['directorio'] = 'directorio';
+//$route['directorio/create'] = 'directorio/create';
+//$route['directorio/(:any)'] = 'directorio/view/$1';
+
+$route['admin/pages'] 				= 'admin/pages/index';
+$route['admin/pages/index'] 		= 'admin/pages/index';
+$route['admin/pages/edit'] 			= 'admin/pages/edit';
+$route['admin/pages/edit/(:any)'] 	= 'admin/pages/edit/$1';
+$route['admin/pages/delete/(:any)'] = 'admin/pages/delete/$1';
+$route['admin/pages/create'] 		= 'admin/pages/create';
+
+$route['admin/users'] 				= 'admin/users/index';
+$route['admin/users/index'] 		= 'admin/users/index';
+$route['admin/users/create'] 		= 'admin/users/create';
+$route['admin/users/delete/(:any)'] = 'admin/users/delete/$1';
+$route['admin/users/edit'] 			= 'admin/users/edit';
+$route['admin/users/edit/(:any)'] 	= 'admin/users/edit/$1';
+
+$route['news/create'] 	= 'news/create';
+$route['news/(:any)'] 	= 'news/view/$1';
+$route['news'] 			= 'news';
+
+
+
+
+$route['(:any)'] = 'pages/view/$1';
+
 $route['default_controller'] = "blog";
 $route['404_override'] = '';
 
