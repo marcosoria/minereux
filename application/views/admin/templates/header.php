@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Plaza Dila Admin</title>
+    <title>Minereux Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="#">Plaza Dila</a>
+    <a class="navbar-brand" href="#">Minereux</a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -39,7 +39,6 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Inicio</a></li>
       <li><a href="<?php echo base_url();?>index.php/admin/pages">Paginas</a></li>
-      <li><a href="<?php echo base_url();?>index.php/admin/wallpapers">Fondos</a></li>
       <li><a href="<?php echo base_url();?>index.php/admin/users">Usuarios</a></li>
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mi Cuenta<b class="caret"></b></a>

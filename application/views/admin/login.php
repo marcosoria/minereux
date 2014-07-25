@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Marco Soria">
-    <title>PlazaDila AdminPanel for Codigniter</title>
+    <title>Minereux AdminPanel for Codigniter</title>
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
@@ -21,17 +21,17 @@
 
     <div class="container">
     	<div style="text-align: center;">
-	    	<img src="http://plazadila.com.mx/assets/images/logoplazadila.png" alt="Plaza Dila" style="margin-top: -40px;" />
+	    	<img src="/assets/images/logo.png" alt="Minereux" style="margin-top: -40px;" />
     	</div>
     	<div class="login_wrapper" style="width: 320px;margin: 0 auto;">
         	<?php echo form_open('admin/home/do_login') ?>
-	        <h3 class="form-signin-heading">Inicia Sesion en Plaza Dila</h3>
+	        <h3 class="form-signin-heading">Inicia Sesion en Minereux</h3>
     	    <input type="text" class="form-control" placeholder="Username" name="username" autofocus>
         	<input type="password" class="form-control" placeholder="Password" name="password">
 	        <label class="checkbox">
-    	      <input type="checkbox" value="remember-me">Remember me
+    	      <input type="checkbox" value="remember-me">Recordar mi sesión
         	</label>
-	        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+	        <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
 	      </form>
       </div>
     </div> <!-- /container -->
