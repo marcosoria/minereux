@@ -204,7 +204,7 @@ h4 a:hover {
 	width:100%;  
 	position:relative; 
 	z-index:2;
-	background: url(../images/bg-head.jpg) center 0 repeat;
+	/*background: url(../images/bg-head.jpg) center 0 repeat;*/
 	height:208px;
 	}
 header{
