@@ -6,7 +6,7 @@
      <meta name = "format-detection" content = "telephone=no" />
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
-     <link rel="stylesheet" href="/assets/css/style.css">
+     <link rel="stylesheet" href="/assets/css/style2.css">
      <link rel="stylesheet" href="/assets/css/camera.css">
      <!--<script src="/assets/js/jquery.js"></script>-->
      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
