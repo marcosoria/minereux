@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1><?php echo $heading; ?></h1>
-	
+	<img src="/assets/images/logo.png" alt="Minereux" />
 	<?php foreach($query->result() as $row): ?>
 	
 	<h3><?php echo $row->title; ?></h3>
