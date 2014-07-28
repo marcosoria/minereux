@@ -6,19 +6,19 @@
      <meta name = "format-detection" content = "telephone=no" />
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
-     <link rel="stylesheet" href="css/style.css">
-     <link rel="stylesheet" href="css/camera.css">
-     <script src="js/jquery.js"></script>
-     <script src="js/jquery-migrate-1.1.1.js"></script>
-     <script src="js/script.js"></script> 
-     <script src="js/superfish.js"></script>
-     <script src="js/jquery.ui.totop.js"></script>
-     <script src="js/jquery.equalheights.js"></script>
-     <script src="js/jquery.mobilemenu.js"></script>
-     <script src="js/jquery.easing.1.3.js"></script>
-     <script src="js/camera.js"></script>
+     <link rel="stylesheet" href="/assets/css/style.css">
+     <link rel="stylesheet" href="/assets/css/camera.css">
+     <script src="/assets/js/jquery.js"></script>
+     <script src="/assets/js/jquery-migrate-1.1.1.js"></script>
+     <script src="/assets/js/script.js"></script> 
+     <script src="/assets/js/superfish.js"></script>
+     <script src="/assets/js/jquery.ui.totop.js"></script>
+     <script src="/assets/js/jquery.equalheights.js"></script>
+     <script src="/assets/js/jquery.mobilemenu.js"></script>
+     <script src="/assets/js/jquery.easing.1.3.js"></script>
+     <script src="/assets/js/camera.js"></script>
      <!--[if (gt IE 9)|!(IE)]><!-->
-     <script src="js/jquery.mobile.customized.min.js"></script>
+     <script src="/assets/js/jquery.mobile.customized.min.js"></script>
      <!--<![endif]-->
      <script>
       $(document).ready(function(){
