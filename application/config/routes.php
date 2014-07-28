@@ -73,7 +73,7 @@ $route['admin/news/edit/(:any)'] 	= 'admin/news/edit/$1';
 
 $route['(:any)'] = 'pages/view/$1';
 
-$route['default_controller'] = "blog";
+$route['default_controller'] = "page";
 $route['404_override'] = '';
 
 
