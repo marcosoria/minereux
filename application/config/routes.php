@@ -61,9 +61,12 @@ $route['admin/users/delete/(:any)'] = 'admin/users/delete/$1';
 $route['admin/users/edit'] 			= 'admin/users/edit';
 $route['admin/users/edit/(:any)'] 	= 'admin/users/edit/$1';
 
-$route['news/create'] 	= 'news/create';
-$route['news/(:any)'] 	= 'news/view/$1';
-$route['news'] 			= 'news';
+$route['admin/news'] 				= 'admin/news/index';
+$route['admin/news/index'] 			= 'admin/news/index';
+$route['admin/news/create'] 		= 'admin/news/create';
+$route['admin/news/delete/(:any)'] 	= 'admin/news/delete/$1';
+$route['admin/news/edit'] 			= 'admin/news/edit';
+$route['admin/news/edit/(:any)'] 	= 'admin/news/edit/$1';
 
 
 
