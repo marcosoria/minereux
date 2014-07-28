@@ -59,21 +59,21 @@
 <div class="main">
      <div class="head">      
          <header class="container_12">
-               <h1><a href="index.html"><img src="images/logo.png" alt=""></a></h1>
+               <h1><a href="index.html"><img src="/assets/images/logo.png" alt=""></a></h1>
                <div class="grid_12">
                 <div id="slide">
                     <div class="slider_wrapper">           
 
               <div id="camera_wrap">
-                    <div data-src="images/slide.jpg">
+                    <div data-src="/assets/images/slide.jpg">
                       <div class="banner carobot caption fadeIn"><div class="inner-banner">the premier industrial manufacturer &amp; exporter</div>
                         </div>
                     </div>
-                    <div data-src="images/slide-1.jpg"> 
+                    <div data-src="/assets/images/slide-1.jpg"> 
                       <div class="banner carobot caption fadeIn"><div class="inner-banner">We are professional, competitive and competent in our service</div>
                         </div>
                     </div>
-                    <div data-src="images/slide-2.jpg">
+                    <div data-src="/assets/images/slide-2.jpg">
                       <div class="banner carobot caption fadeIn"><div class="inner-banner">Honesty, commitment and quality craftsmanship</div>
                         </div>
                     </div>
@@ -118,41 +118,41 @@
         
         <div class="grid_3">
            <figure class="figure bot-1">
-               <img src="images/page-img.jpg" alt="">
+               <img src="/assets/images/page-img.jpg" alt="">
            </figure>
            <a href="#" class="font-14 hov-1">Natural Resources</a>
            <span class="dis-block min-height">Electricity, Natural Gas, Water, Waste Management</span>
-           <a href="#" class="link">Details <img src="images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
         <div class="grid_3">
            <figure class="figure bot-1">
-               <img src="images/page-img-1.jpg" alt="">
+               <img src="/assets/images/page-img-1.jpg" alt="">
            </figure>
            <a href="#" class="font-14 hov-1">Mining Services &amp; Products</a>
            <span class="dis-block min-height">High Technology</span>
-           <a href="#" class="link">Details <img src="images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
         <div class="grid_3">
            <figure class="figure bot-1">
-               <img src="images/page-img-2.jpg" alt="">
+               <img src="/assets/images/page-img-2.jpg" alt="">
            </figure>
            <a href="#" class="font-14 hov-1">Industrial Manufacturing</a>
            <span class="dis-block min-height">Heavy Equipment</span>
-           <a href="#" class="link">Details <img src="images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
         <div class="grid_3">
            <figure class="figure bot-1">
-               <img src="images/page-img-3.jpg" alt="">
+               <img src="/assets/images/page-img-3.jpg" alt="">
            </figure>
            <a href="#" class="font-14 hov-1">Water / Wastewater</a>
            <span class="dis-block min-height">Award-winning Projects</span>
-           <a href="#" class="link">Details <img src="images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
          
@@ -171,10 +171,10 @@
             <div class="indent">
                <h3 class="bot-3">why choose us</h3>
                <figure class="figure-1 bot">
-                   <img src="images/page-img-4.jpg" alt="">
+                   <img src="/assets/images/page-img-4.jpg" alt="">
                </figure>
                <p>Sui blanditiistes es praetiuptatum delenitimos atququdolores etres quamolestiasexceuri sint piditaprdentimilique suincupaqui officia deserunt mollianimid estlaborum et dolorum massafugharum quidemed rerum facilis est et expedita distinc...</p>
-               <a href="#" class="link">read more <img src="images/bg-link.png" alt=""></a>
+               <a href="#" class="link">read more <img src="/assets/images/bg-link.png" alt=""></a>
             </div>
          </div>
          
@@ -226,7 +226,7 @@
      
      <div class="box-1 grid_12">
         <div class="box-1-inner">
-             <a href="#"><img src="images/img-link.png" alt=""></a><a href="#"><img src="images/img-link-1.png" alt=""></a><a href="#"><img src="images/img-link-2.png" alt=""></a><a href="#"><img src="images/img-link-3.png" alt=""></a><a href="#"><img src="images/img-link-4.png" alt=""></a><a href="#"><img src="images/img-link-5.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link.png" alt=""></a><a href="#"><img src="/assets/images/img-link-1.png" alt=""></a><a href="#"><img src="/assets/images/img-link-2.png" alt=""></a><a href="#"><img src="/assets/images/img-link-3.png" alt=""></a><a href="#"><img src="/assets/images/img-link-4.png" alt=""></a><a href="#"><img src="/assets/images/img-link-5.png" alt=""></a>
         </div>
      </div>
      
@@ -247,7 +247,7 @@
                  </ul>
                 </div>
               <div class="grid_6">
-                <p><a href="index.html"><img src="images/logo-1.png" alt=""></a> <span>&copy; 2013 | <a href="index-6.html">Privacy Policy</a> <br><!--{%FOOTER_LINK} --></span></p>
+                <p><a href="index.html"><img src="/assets/images/logo-1.png" alt=""></a> <span>&copy; 2013 | <a href="index-6.html">Privacy Policy</a> <br><!--{%FOOTER_LINK} --></span></p>
                     <div class="icons">
                        <a href="#" id="icon"></a>
                        <a href="#" id="icon-1"></a>
