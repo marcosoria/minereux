@@ -8,7 +8,8 @@
      <link rel="shortcut icon" href="images/favicon.ico" />
      <link rel="stylesheet" href="/assets/css/style.css">
      <link rel="stylesheet" href="/assets/css/camera.css">
-     <script src="/assets/js/jquery.js"></script>
+     <!--<script src="/assets/js/jquery.js"></script>-->
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
      <script src="/assets/js/jquery-migrate-1.1.1.js"></script>
      <script src="/assets/js/script.js"></script> 
      <script src="/assets/js/superfish.js"></script>
