@@ -19,7 +19,12 @@ class Page extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('page/home');
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Slogan goes here';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/home', $data);
+		$this->load->view('templates/footer');
+		
 	}
 }
 

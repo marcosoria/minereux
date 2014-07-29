@@ -43,7 +43,7 @@ body {
 .font-14{
 	font-size:14px;
 	line-height:21px;
-	color:#a83932;
+	color:#f15C22;
 	font-weight:bold;
 	letter-spacing:-1px;
 	}
@@ -114,14 +114,14 @@ ul {
 	font-size: 12px; 
 	line-height: 16px;
 	padding:9px 15px 9px 15px;
-	background:#a83932 ; 
+	background:#007C85 ; 
 	color:#fff ; 
 	box-shadow: 1px 1px 2px #dcd6ce ;
 	text-transform:uppercase;
 	-moz-transition: background 0.5s ease;
 	-webkit-transition: background 0.5s ease;
 	-o-transition: background 0.5s ease;
-	text-shadow:1px 1px #90312b;
+	text-shadow:1px 1px #333;
 	}
 .button:hover{
 	color:#fff ;
@@ -145,7 +145,7 @@ h1{
 	width:276px;
 	height:58px;
 	margin:0 auto;
-	padding:66px 0 28px 0;
+	padding:28px 0 28px 0;
 	}
 h1 a{
 	display:inline-block;

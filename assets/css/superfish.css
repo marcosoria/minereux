@@ -2,6 +2,7 @@
 nav{
 	display:block;
 	background: url(../images/bg-nav.jpg) 0 0 repeat;
+	/*background-color: #d6e03d;*/
 	width:940px;
 	margin:0 auto;
 	}
@@ -41,7 +42,7 @@ ul.sf-menu>li>a{
 		display:block;
 		position:absolute;
 		top:45px;
-		left:108px;
+		left:120px;
 		}
 ul.sf-menu>li.current , ul.sf-menu>li.sfHover , ul.sf-menu>li:hover {background: url(../images/bg-li-hov.jpg) 0 0 repeat;}
 ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#fff;}

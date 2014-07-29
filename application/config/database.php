@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '127.0.0.1';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-$db['default']['database'] = 'demo-ci-install';
+$db['default']['password'] = 'canisoria';
+$db['default']['database'] = 'minereux';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
