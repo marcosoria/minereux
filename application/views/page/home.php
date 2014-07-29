@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
      <head>
-     <title>Home</title>
+     <title>Minereux</title>
      <meta charset="utf-8">
      <meta name = "format-detection" content = "telephone=no" />
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
      <link rel="stylesheet" href="/assets/css/style2.css">
      <link rel="stylesheet" href="/assets/css/camera.css">
-     <!--<script src="/assets/js/jquery.js"></script>-->
      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
      <script src="/assets/js/jquery-migrate-1.1.1.js"></script>
      <script src="/assets/js/script.js"></script> 
@@ -84,23 +83,18 @@
                 <div class="clear"></div>
                 <nav class="grid_12"> 
                <ul class="sf-menu">
-                   <li class="current"><a href="index.html">Home</a></li>
-                    <li><a href="index-1.html">About</a>
+                   <li class="current"><a href="#">Inicio</a></li>
+                    <li>
+                    	<a href="index-1.html">Nosotros</a>
                         <ul>
-                        <li><a href="#">History</a></li>
-                         <li><a href="#">news</a>
-                              <ul>
-                             <li><a href="#">latest</a></li>
-                             <li><a href="#">archive</a></li>
-                            </ul>
-                           </li>
-                         <li><a href="#">testimonials</a></li>
-                      </ul>
+                        	<li><a href="#">Historia</a></li>
+                         	<li><a href="#">Noticias</a></li>
+                      	</ul>
                       </li>
-                    <li><a href="index-2.html">projects</a> </li>
-                    <li><a href="index-3.html">services</a></li>
-                    <li><a href="index-4.html">Blog</a></li> 
-                      <li><a href="index-5.html">Contacts</a></li> 
+                    <li><a href="#">Proyectos</a> </li>
+                    <li><a href="#">Servicios</a></li>
+                    <li><a href="#">Blog</a></li> 
+                      <li><a href="#">Contacto</a></li> 
                 </ul>
                   <div class="clear"></div>
               </nav>
@@ -112,7 +106,7 @@
   <div class="container_12">
     <div class="wrapper bot-2">
       <div class="grid_12 txt-al">
-            <h2 class="bot">recent services</h2>
+            <h2 class="bot">Servicios</h2>
         </div>
         <div class="clear"></div>
         
@@ -122,7 +116,7 @@
            </figure>
            <a href="#" class="font-14 hov-1">Natural Resources</a>
            <span class="dis-block min-height">Electricity, Natural Gas, Water, Waste Management</span>
-           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Ver m&aacute;s <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
@@ -132,7 +126,7 @@
            </figure>
            <a href="#" class="font-14 hov-1">Mining Services &amp; Products</a>
            <span class="dis-block min-height">High Technology</span>
-           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Ver m&aacute;s <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
@@ -142,7 +136,7 @@
            </figure>
            <a href="#" class="font-14 hov-1">Industrial Manufacturing</a>
            <span class="dis-block min-height">Heavy Equipment</span>
-           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Ver m&aacute;s <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
         
@@ -152,7 +146,7 @@
            </figure>
            <a href="#" class="font-14 hov-1">Water / Wastewater</a>
            <span class="dis-block min-height">Award-winning Projects</span>
-           <a href="#" class="link">Details <img src="/assets/images/bg-link.png" alt=""></a>
+           <a href="#" class="link">Ver m&aacute;s <img src="/assets/images/bg-link.png" alt=""></a>
            
         </div>
          
@@ -169,12 +163,12 @@
      <div class="wrapper bg-wrapper">
          <div class="grid_6">
             <div class="indent">
-               <h3 class="bot-3">why choose us</h3>
+               <h3 class="bot-3">Porqu&eacute; nosotros?</h3>
                <figure class="figure-1 bot">
                    <img src="/assets/images/page-img-4.jpg" alt="">
                </figure>
                <p>Sui blanditiistes es praetiuptatum delenitimos atququdolores etres quamolestiasexceuri sint piditaprdentimilique suincupaqui officia deserunt mollianimid estlaborum et dolorum massafugharum quidemed rerum facilis est et expedita distinc...</p>
-               <a href="#" class="link">read more <img src="/assets/images/bg-link.png" alt=""></a>
+               <a href="#" class="link">Ver m&aacute;s <img src="/assets/images/bg-link.png" alt=""></a>
             </div>
          </div>
          
@@ -184,7 +178,7 @@
                     <div class="indent-1">
                       <h3 class="bot-4"><span></span>Valve Repair</h3>
                       <p>Sui blanditiistes es praiuptatum delenitiatququdolores etresuamolestiasexceuri sint piditaprdenti milique.</p>
-                      <a href="#" class="button">more</a>
+                      <a href="#" class="button">Ver m&aacute;s</a>
                     </div>
                     
                 </div>
@@ -193,7 +187,7 @@
                     <div class="indent-2">
                       <h3 class="bot-4"><span></span>Concrete Repair</h3>
                         <p>Sui blanditiistes es praiuptatum delenitiatququdolores etresuamolestiasexceuri sint piditaprdenti milique.</p>
-                      <a href="#" class="button">more</a>
+                      <a href="#" class="button">Ver m&aacute;s</a>
                         
                     </div>
                 </div>
@@ -204,7 +198,7 @@
                     <div class="indent-1">
                       <h3 class="bot-4"><span></span>Valve Insertion</h3>
                       <p>Sui blanditiistes es praiuptatum delenitiatququdolores etresuamolestiasexceuri sint piditaprdenti milique.</p>
-                      <a href="#" class="button">more</a>
+                      <a href="#" class="button">Ver m&aacute;s</a>
                     </div>
                     
                 </div>
@@ -213,7 +207,7 @@
                     <div class="indent-2">
                       <h3 class="bot-4"><span></span>Composite Repair</h3>
                         <p>Sui blanditiistes es praiuptatum delenitiatququdolores etresuamolestiasexceuri sint piditaprdenti milique.</p>
-                      <a href="#" class="button">more</a>
+                      <a href="#" class="button">Ver m&aacute;s</a>
                         
                     </div>
                 </div>
@@ -226,7 +220,12 @@
      
      <div class="box-1 grid_12">
         <div class="box-1-inner">
-             <a href="#"><img src="/assets/images/img-link.png" alt=""></a><a href="#"><img src="/assets/images/img-link-1.png" alt=""></a><a href="#"><img src="/assets/images/img-link-2.png" alt=""></a><a href="#"><img src="/assets/images/img-link-3.png" alt=""></a><a href="#"><img src="/assets/images/img-link-4.png" alt=""></a><a href="#"><img src="/assets/images/img-link-5.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link-1.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link-2.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link-3.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link-4.png" alt=""></a>
+             <a href="#"><img src="/assets/images/img-link-5.png" alt=""></a>
         </div>
      </div>
      
@@ -238,16 +237,16 @@
       <div class="main-footer">
     <div class="container_12">                <div class="grid_6 ff_right">
                    <ul class="menu-footer">
-                <li class="current-1"><a href="index.html">Home</a></li>
-                <li><a href="index-1.html">about</a></li>
-                <li><a href="index-2.html">projects</a></li>
-                <li><a href="index-3.html">services</a></li>
-                <li><a href="index-4.html">blog</a></li>
-                <li><a href="index-5.html">contacts</a></li>
+                <li class="current-1"><a href="index.html">Inicio</a></li>
+                <li><a href="index-1.html">Nosotros</a></li>
+                <li><a href="index-2.html">Proyectos</a></li>
+                <li><a href="index-3.html">Servicios</a></li>
+                <li><a href="index-4.html">Blog</a></li>
+                <li><a href="index-5.html">Contacto</a></li>
                  </ul>
                 </div>
               <div class="grid_6">
-                <p><a href="index.html"><img src="/assets/images/logo-1.png" alt=""></a> <span>&copy; 2013 | <a href="index-6.html">Privacy Policy</a> <br><!--{%FOOTER_LINK} --></span></p>
+                <p><a href="index.html"><img src="/assets/images/logo_gray.png" alt="" height="48"></a> <span>&copy; <?php echo date('YYYY') ?> | <a href="#">Pol&iacute;ticas de Privacidad</a> <br><!--{%FOOTER_LINK} --></span></p>
                     <div class="icons">
                        <a href="#" id="icon"></a>
                        <a href="#" id="icon-1"></a>
@@ -262,14 +261,6 @@
       </div>  
   </footer>
 </div>  
-<script type="text/javascript">
- var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7078796-5']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();</script>
+
 </body>
 </html>
