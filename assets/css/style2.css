@@ -805,6 +805,15 @@ a.gal:hover img {
 	opacity: 0.3;
 }
 
+
+.list-compromiso{
+	list-style-type: disc;
+}
+
+.list-compromiso li{
+	margin-bottom: 16px;
+}
+
 /*==================================RESPONSIVE LAYOUTS===============================================*/
 
 

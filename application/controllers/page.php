@@ -36,6 +36,26 @@ class Page extends CI_Controller {
 		$this->load->view('templates/footer');
 		
 	}
+	
+	public function barita()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Acerca de Nosotros';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/barita', $data);
+		$this->load->view('templates/footer');
+		
+	}
+	
+	public function hierro()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Acerca de Nosotros';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/hierro', $data);
+		$this->load->view('templates/footer');
+		
+	}
 }
 
 /* End of file welcome.php */

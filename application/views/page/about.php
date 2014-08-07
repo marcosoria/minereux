@@ -25,7 +25,7 @@
                 <h3 class="bot-3">Compromiso</h3>
                 <div class="div-comment">
                     <div class="comment">
-                        <ul>
+                        <ul class="list-compromiso">
                          <li>Calidad Garantizada</li>
                         
                            <li>Buscamos siempre ofrecer el mejor servicio.</li>
@@ -43,7 +43,79 @@
             </div>
         </div><!--end of wrapper-->
 
-      
+        <div class="wrapper bg-wrapper-1">
+            <div class="grid_12">
+                <h3 class="bot-3">Nuestras Capacidades</h3>
+            </div>
+            <div class="clear"></div>
+
+            <div class="extra-wrap">
+                <div class="grid_6">
+                    <div class="wrapper-extra">
+                        <div class="letter">a</div>
+                        <div class="extra-wrap">
+                            <a href="#" class="font-14 hov-1">Actuamos responsablemente en todos nuestros mercados. </a>
+                            <p>Empleamos compromiso y un equipo de trabajo altamente calificado. Motivamos a nuestros empleados a ser innovadores y sobresalir en su entorno. </p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="grid_6">
+                    <div class="wrapper-extra">
+                        <div class="letter">b</div>
+                        <div class="extra-wrap">
+                            <a href="#" class="font-14 hov-1">Potenciamos el comercio de minerales para un número cada vez más grande de clientes y contrapartes. </a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="extra-wrap">
+                <div class="grid_6">
+                    <div class="wrapper-extra">
+                        <div class="letter">c</div>
+                        <div class="extra-wrap">
+                            <a href="#" class="font-14 hov-1">Promovemos una cultura de negocio flexible y receptiva alentando y apoyando la toma de decisiones.  </a>
+                           
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="grid_6">
+                    <div class="wrapper-extra">
+                        <div class="letter">d</div>
+                        <div class="extra-wrap">
+                            <a href="#" class="font-14 hov-1">Negociamos acuerdos con compañías mineras en diferentes partes del mundo. </a>
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div><!--end of wrapper-->
+
+        <div class="wrapper">
+            
+
+            <div class="grid_6">
+                <h3>Visi&oacute;n</h3>
+                <p>
+                Ser una empresa líder en el sector, con proyecciones en la comunidad y comprometida con el crecimiento de nuestro país a través de actividades de desarrollo, buscando a través de la mejora constante, expandir nuestra participación enmarcada por la ética comercial. 
+                </p>
+            </div>
+            <div class="grid_6">
+                <h3>Misi&oacute;n</h3>
+                <p>
+                Posicionarnos como líderes en el mercado  de la comercialización del mineral de hierro y la barita ofreciendo altos estándares de calidad 
+                </p>
+            </div>
+            
+
+        </div> 
 
 
     </div>
