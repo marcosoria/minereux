@@ -68,7 +68,7 @@ $route['admin/news/delete/(:any)'] 	= 'admin/news/delete/$1';
 $route['admin/news/edit'] 			= 'admin/news/edit';
 $route['admin/news/edit/(:any)'] 	= 'admin/news/edit/$1';
 
-
+$route['nosotros'] 	= 'page/about';
 
 
 $route['(:any)'] = 'pages/view/$1';
