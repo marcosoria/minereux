@@ -59,32 +59,7 @@
      <div class="head">      
          <header class="container_12">
                <h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
-               <div class="grid_12">
-                <div id="slide">
-                    <div class="slider_wrapper">           
-
-              <div id="camera_wrap">
-                    <div data-src="/assets/images/slide1.jpg">
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner">SOMOS PROFESIONALES, COMPETENTES Y COMPETITIVOS EN NUESTRO TRABAJO</div>
-                        </div>
-                    </div>
-                    <div data-src="/assets/images/slide2.jpg"> 
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner">OFRECEMOS SERVICIOS DE CALIDAD</div>
-                        </div>
-                    </div>
-                    <div data-src="/assets/images/slide3.jpg">
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner"></div>
-                        </div>
-                    </div>
-					<div data-src="/assets/images/slide4.jpg">
-					  <div class="banner carobot caption fadeIn"><div class="inner-banner">CONOCE NUESTRAS RUTAS DE DISTRIBUCIÓN DE MINERAL</div>
-					    </div>
-					</div>
-
-					
-            </div></div>
-             </div>
-          </div>
+               
                 <div class="clear"></div>
                 <nav class="grid_12"> 
                <ul class="sf-menu">

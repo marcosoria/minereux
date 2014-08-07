@@ -21,8 +21,18 @@ class Page extends CI_Controller {
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Slogan goes here';
-		$this->load->view('templates/header', $data);
+		//$this->load->view('templates/header', $data);
 		$this->load->view('page/home', $data);
+		$this->load->view('templates/footer');
+		
+	}
+	
+	public function nosotros()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Acerca de Nosotros';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/about', $data);
 		$this->load->view('templates/footer');
 		
 	}
