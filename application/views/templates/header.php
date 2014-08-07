@@ -53,7 +53,7 @@
 
     <![endif]-->
      </head>
-<body id="page-1">
+<body id="page-2">
 <!--==============================header=================================-->
 <div class="main">
      <div class="head">      
