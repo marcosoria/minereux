@@ -64,22 +64,22 @@
                 <nav class="grid_12"> 
                <ul class="sf-menu">
                    <li><a href="/">Inicio</a></li>
-                    <li>
+                    <li class="<?php echo $curr_nosotros ?>">
                     	<a href="/page/nosotros">Nosotros</a>
                         <ul>
                         	<li><a href="#">Historia</a></li>
                          	<li><a href="#">Noticias</a></li>
                       	</ul>
                       </li>
-                    <li><a href="#">Productos</a> 
+                    <li class="<?php echo $curr_productos ?>"><a href="#">Productos</a> 
                     	<ul>
                     		<li><a href="/page/barita">Barita</a></li>
                     	 	<li><a href="/page/hierro">Mineral de Hierro</a></li>
                     		</ul>
                     </li>
-                    <li><a href="#">Servicios</a></li>
-                    <li><a href="#">Blog</a></li> 
-                      <li><a href="#">Contacto</a></li> 
+                    <li><a href="#" class="<?php echo $curr_servicios ?>">Servicios</a></li>
+                    <li><a href="#" class="<?php echo $curr_blog ?>">Blog</a></li> 
+                      <li><a href="#" class="<?php echo $curr_contacto ?>">Contacto</a></li> 
                 </ul>
                   <div class="clear"></div>
               </nav>

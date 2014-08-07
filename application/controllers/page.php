@@ -31,6 +31,7 @@ class Page extends CI_Controller {
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
+		$data['curr_nosotros'] = 'current';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/about', $data);
 		$this->load->view('templates/footer');
@@ -41,6 +42,7 @@ class Page extends CI_Controller {
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
+		$data['curr_productos'] = 'current';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/barita', $data);
 		$this->load->view('templates/footer');
@@ -51,6 +53,7 @@ class Page extends CI_Controller {
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
+		$data['curr_productos'] = 'current';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/hierro', $data);
 		$this->load->view('templates/footer');
