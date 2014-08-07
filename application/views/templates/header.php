@@ -64,19 +64,24 @@
                     <div class="slider_wrapper">           
 
               <div id="camera_wrap">
-                    <div data-src="/assets/images/slide.jpg">
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner">the premier industrial manufacturer &amp; exporter</div>
+                    <div data-src="/assets/images/slide1.jpg">
+                      <div class="banner carobot caption fadeIn"><div class="inner-banner">SOMOS PROFESIONALES, COMPETENTES Y COMPETITIVOS EN NUESTRO TRABAJO</div>
                         </div>
                     </div>
-                    <div data-src="/assets/images/slide-1.jpg"> 
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner">We are professional, competitive and competent in our service</div>
+                    <div data-src="/assets/images/slide2.jpg"> 
+                      <div class="banner carobot caption fadeIn"><div class="inner-banner">OFRECEMOS SERVICIOS DE CALIDAD</div>
                         </div>
                     </div>
-                    <div data-src="/assets/images/slide-2.jpg">
-                      <div class="banner carobot caption fadeIn"><div class="inner-banner">Honesty, commitment and quality craftsmanship</div>
+                    <div data-src="/assets/images/slide3.jpg">
+                      <div class="banner carobot caption fadeIn"><div class="inner-banner"></div>
                         </div>
                     </div>
+					<div data-src="/assets/images/slide4.jpg">
+					  <div class="banner carobot caption fadeIn"><div class="inner-banner">CONOCE NUESTRAS RUTAS DE DISTRIBUCIÓN DE MINERAL</div>
+					    </div>
+					</div>
 
+					
             </div></div>
              </div>
           </div>
