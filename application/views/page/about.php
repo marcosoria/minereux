@@ -17,8 +17,8 @@
                     </div>
                 </div>
 
-                <span class="font-14 col">Experiencia, Calidad y Confianza!</span>
-                <p>MINEREUX Inc. es una compañía que inició operaciones en Mayo del 2014. Fue constituida legalmente tanto en México como en Estados Unidos, y es filial de FINANCIERA CUALLIX S.A. de C.V. compañía con más de 25 años de experiencia en su ramo. Nos dedicamos a la comercialización de minerales con un enfoque especial al mineral de hierro y a la barita. Tenemos negociaciones importantes con empresas en China, Perú, Chile y Guatemala.    </p>
+                <!--<span class="font-14 col">Experiencia, Calidad y Confianza!</span>-->
+                <p style="text-align: justify;">MINEREUX Inc. es una compañía que inició operaciones en Mayo del 2014. Fue constituida legalmente tanto en México como en Estados Unidos, y es filial de FINANCIERA CUALLIX S.A. de C.V. compañía con más de 25 años de experiencia en su ramo. Nos dedicamos a la comercialización de minerales con un enfoque especial al mineral de hierro y a la barita. Tenemos negociaciones importantes con empresas en China, Perú, Chile y Guatemala.    </p>
 
             </div>
             <div class="grid_4 prefix_1">
@@ -38,7 +38,9 @@
                     </div>
                     
                 </div>
-                
+                <h4>
+                Nos regimos por los valores  honestidad, servicio, compromiso y calidad
+                </h4>
 
             </div>
         </div><!--end of wrapper-->
