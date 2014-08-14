@@ -11,10 +11,6 @@
 
         <div class="wrapper">
             
-
-            <div class="grid_4">
-                <img src="/assets/images/barita.jpg" alt="Barita" style="width: 100%;" />
-            </div>
             <div class="grid_8">
                 <h3>BARITA (BARITINA)</h3>
                 <p>La barita es un mineral no metálico cuya fórmula química es BaSO4. Es conocida también como baritina o espato pesado.</p>
@@ -24,7 +20,30 @@
                 <p>Se encuentra en la naturaleza como masas cristalinas color blanco, verdosas, grisáceas o rojizas. </p>
                 
                 
+                <h4>PRINCIPALES USOS</h4>
+                <ul>
+                 <li>El principal uso de la barita en el mundo es en la perforación de pozos petroleros. </li>
+                
+                 <li>También tiene uso en la industria de la pintura, como un pigmento con resistencia a los ácidos. </li>
+                
+                 <li>De ella se obtiene el elemento Bario. </li>
+                
+                 <li>En la industria automotriz para la fabricación de balatas para frenos. </li>
+                
+                 <li>En la industria del vidrio como fundente</li>
+                
+                 <li>Como protección en los cuartos de rayos X.</li>
+                </ul>
+                
             </div>
+            
+
+            <div class="grid_4">
+                <img src="/assets/images/barita.jpg" alt="Barita" style="width: 100%;" />
+                
+                
+            </div>
+            
             
 
         </div> 
@@ -34,20 +53,17 @@
 		
 		            
 		            <div class="grid_8">
-		                <h4>PRINCIPALES USOS</h4>
-						<ul>
-						 <li>El principal uso de la barita en el mundo es en la perforación de pozos petroleros. </li>
-						
-						 <li>También tiene uso en la industria de la pintura, como un pigmento con resistencia a los ácidos. </li>
-						
-						 <li>De ella se obtiene el elemento Bario. </li>
-						
-						 <li>En la industria automotriz para la fabricación de balatas para frenos. </li>
-						
-						 <li>En la industria del vidrio como fundente</li>
-						
-						 <li>Como protección en los cuartos de rayos X.</li>
-		                </ul>
+		            <h4>Nuestros Minerales</h4>
+		            <p>
+		                Tenemos proveedores de importación tanto en China como en Guatemala y Estados Unidos. 
+		                
+		                Actualmente nos encontramos realizando negociaciones con proveedores del mineral en Guatemala
+		                
+		                Disponemos de una amplia infraestructura para atender eficientemente la demanda de nuestros clientes. 
+		                
+		                Tenemos barita molida en sacos jumbo, barita molida en sacos y barita en malla 
+		               </p> 
+		                
 		            </div>
 		            
 		            <div class="grid_4">
