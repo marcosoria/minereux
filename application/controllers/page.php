@@ -32,6 +32,10 @@ class Page extends CI_Controller {
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
 		$data['curr_nosotros'] = 'current';
+		$data['curr_productos'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/about', $data);
 		$this->load->view('templates/footer');
@@ -43,6 +47,10 @@ class Page extends CI_Controller {
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
 		$data['curr_productos'] = 'current';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/barita', $data);
 		$this->load->view('templates/footer');
@@ -54,6 +62,10 @@ class Page extends CI_Controller {
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Acerca de Nosotros';
 		$data['curr_productos'] = 'current';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
 		$this->load->view('templates/header', $data);
 		$this->load->view('page/hierro', $data);
 		$this->load->view('templates/footer');

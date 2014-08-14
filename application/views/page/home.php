@@ -85,7 +85,7 @@
 
 
                     <div class="grid_12">
-                        <div id="slide">
+                        <div id="slide" style="margin-bottom: 24px;">
                             <div class="slider_wrapper">           
 
                                 <div id="camera_wrap">
