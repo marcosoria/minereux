@@ -108,7 +108,8 @@ p{padding-bottom:21px;}
 ul {
 	margin:0; 
 	padding:0;
-	list-style-image:none;
+	list-style-type: disc;
+	list-style-position: inside;
 	}
 .button{
 	display: inline-block;

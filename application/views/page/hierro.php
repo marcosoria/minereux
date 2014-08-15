@@ -47,7 +47,7 @@
 
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
-                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">En MINEREUX actualmente contamos con una capacidad mensual de 100 mil toneladas durante los primeros 2 meses, 150 mil del tercero al sexto y 200 mil toneladas a partir del séptimo mes. Los puertos de embarque están en Chile y en Perú y Totoralillo, en Guayacán, en Ilo Matarani y Pisco.  </p>
+                <p>En MINEREUX actualmente contamos con una capacidad mensual de 100 mil toneladas durante los primeros 2 meses, 150 mil del tercero al sexto y 200 mil toneladas a partir del séptimo mes. Los puertos de embarque están en Chile y en Perú y Totoralillo, en Guayacán, en Ilo Matarani y Pisco.  </p>
             </div>
 
             <div class="grid_4">

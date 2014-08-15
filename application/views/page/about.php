@@ -56,7 +56,7 @@
                     <div class="wrapper-extra">
                         <div class="letter">a</div>
                         <div class="extra-wrap">
-                            <a href="#" class="font-14 hov-1">Actuamos responsablemente en todos nuestros mercados. </a>
+                            <span class="font-14 hov-1">Actuamos responsablemente en todos nuestros mercados. </span>
                             <p>Empleamos compromiso y un equipo de trabajo altamente calificado. Motivamos a nuestros empleados a ser innovadores y sobresalir en su entorno. </p>
 
                         </div>
@@ -67,7 +67,7 @@
                     <div class="wrapper-extra">
                         <div class="letter">b</div>
                         <div class="extra-wrap">
-                            <a href="#" class="font-14 hov-1">Potenciamos el comercio de minerales para un número cada vez más grande de clientes y contrapartes. </a>
+                            <span class="font-14 hov-1">Potenciamos el comercio de minerales para un número cada vez más grande de clientes y contrapartes. </span>
                             
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                     <div class="wrapper-extra">
                         <div class="letter">c</div>
                         <div class="extra-wrap">
-                            <a href="#" class="font-14 hov-1">Promovemos una cultura de negocio flexible y receptiva alentando y apoyando la toma de decisiones.  </a>
+                            <span class="font-14 hov-1">Promovemos una cultura de negocio flexible y receptiva alentando y apoyando la toma de decisiones.  </span>
                            
 
                         </div>
@@ -90,7 +90,7 @@
                     <div class="wrapper-extra">
                         <div class="letter">d</div>
                         <div class="extra-wrap">
-                            <a href="#" class="font-14 hov-1">Negociamos acuerdos con compañías mineras en diferentes partes del mundo. </a>
+                            <a span class="font-14 hov-1">Negociamos acuerdos con compañías mineras en diferentes partes del mundo. </span>
                             
 
                         </div>
