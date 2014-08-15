@@ -112,10 +112,11 @@ p{padding-bottom:21px;}
 		list-style-position: inside;
 		}
 		
-		.head ul {
+		.head ul, .footer ul {
 			margin:0; 
 			padding:0;
 			list-style-image:none;
+			list-style-type: none;
 			}
 			
 			
