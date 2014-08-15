@@ -2,8 +2,11 @@
 <section id="content">         
     <div class="container_12">
         <div class="wrapper">
+            <div class="grid_12">
+            <h3 class="bot-3">Contacto</h3>
+            </div>
             <div class="grid_4 suffix_1">
-                            <h3 class="bot-3">Contacto</h3>
+                            
                             <p>
                             Utilice el siguiente formulario para hacernos llegar sus dudas, comentarios y / o sugerencias. Sus comentarios son muy importantes para nosotros.</p>
                             <form id="form">

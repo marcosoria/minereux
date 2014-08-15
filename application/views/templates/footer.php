@@ -2,13 +2,12 @@
   <footer>
       <div class="main-footer">
     <div class="container_12">                <div class="grid_6 ff_right">
-                   <ul class="menu-footer">
-                <li class="current-1"><a href="index.html">Inicio</a></li>
-                <li><a href="index-1.html">Nosotros</a></li>
-                <li><a href="index-2.html">Proyectos</a></li>
-                <li><a href="index-3.html">Servicios</a></li>
+                   <ul class="menu-footer">            
+                <li><a href="/page/nosotros">Nosotros</a></li>
+                <li><a href="index-2.html">Productos</a></li>
+                <li><a href="/page/ruta">Distribuci&oacute;n</a></li>
                 <li><a href="index-4.html">Blog</a></li>
-                <li><a href="index-5.html">Contacto</a></li>
+                <li><a href="/page/contacto">Contacto</a></li>
                  </ul>
                 </div>
               <div class="grid_6">
