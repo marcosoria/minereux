@@ -4,10 +4,10 @@
      <title>Minereux <?php if(!empty($page_title)) echo " - $page_title" ?></title>
      <meta charset="utf-8">
      <meta name = "format-detection" content = "telephone=no" />
-     <link rel="icon" href="images/favicon.ico">
+     <link rel="icon" href="images/favicon.ico" />
      <link rel="shortcut icon" href="images/favicon.ico" />
-     <link rel="stylesheet" href="/assets/css/style2.css">
-     <link rel="stylesheet" href="/assets/css/camera.css">
+     <link rel="stylesheet" href="/assets/css/style2.css" />
+     <link rel="stylesheet" href="/assets/css/camera.css" />
      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
      <script src="/assets/js/jquery-migrate-1.1.1.js"></script>
      <script src="/assets/js/script.js"></script> 
@@ -78,9 +78,9 @@
                     	 	<li><a href="/page/arena_silica">Arena Silica</a></li>
                     		</ul>
                     </li>
-                    <li><a href="#" class="<?php echo $curr_servicios ?>">Servicios</a></li>
-                    <li><a href="#" class="<?php echo $curr_blog ?>">Blog</a></li> 
-                      <li><a href="#" class="<?php echo $curr_contacto ?>">Contacto</a></li> 
+                    <li class="<?php echo $curr_servicios ?>"><a href="/page/ruta">Ruta</a></li>
+                    <li class="<?php echo $curr_blog ?>"><a href="#">Blog</a></li> 
+                    <li class="<?php echo $curr_contacto ?>"><a href="/page/contacto">Contacto</a></li> 
                 </ul>
                   <div class="clear"></div>
               </nav>

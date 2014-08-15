@@ -86,6 +86,36 @@ class Page extends CI_Controller {
 		$this->load->view('templates/footer');
 		
 	}
+	
+	public function ruta()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Ruta';
+		$data['curr_productos'] = '';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = 'current';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/ruta', $data);
+		$this->load->view('templates/footer');
+		
+	}
+	
+	public function contacto()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Contacto';
+		$data['curr_productos'] = '';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = 'current';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/contacto', $data);
+		$this->load->view('templates/footer');
+		
+	}
 }
 
 /* End of file welcome.php */
