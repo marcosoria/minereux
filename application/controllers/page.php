@@ -21,7 +21,13 @@ class Page extends CI_Controller {
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Slogan goes here';
-		//$this->load->view('templates/header', $data);
+		$data['page_title'] = 'Arena Silica';
+		$data['curr_productos'] = '';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
+		
 		$this->load->view('page/home', $data);
 		$this->load->view('templates/footer');
 		
