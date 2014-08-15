@@ -2,10 +2,12 @@
     <li><a href="/">Inicio</a></li>
     <li class="<?php echo $curr_nosotros ?>">
         <a href="/page/nosotros">Nosotros</a>
+        <!--
         <ul>
             <li><a href="#">Historia</a></li>
             <li><a href="#">Noticias</a></li>
         </ul>
+        -->
     </li>
     <li class="<?php echo $curr_productos ?>"><a href="#">Productos</a> 
         <ul>
