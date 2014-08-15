@@ -71,6 +71,21 @@ class Page extends CI_Controller {
 		$this->load->view('templates/footer');
 		
 	}
+	
+	public function arena_silica()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Arena Silica';
+		$data['curr_productos'] = 'current';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/arena-silica', $data);
+		$this->load->view('templates/footer');
+		
+	}
 }
 
 /* End of file welcome.php */

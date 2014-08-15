@@ -99,8 +99,10 @@ body {
 .right{margin-right: 20px;}
 .left{margin-left:20px;}
 /*================================link-button===============================*/
-a {text-decoration:none; cursor:pointer;}
-a:hover {text-decoration:none;}
+a {text-decoration:none; cursor:pointer; color: #f15C22;
+}
+a:hover {text-decoration:none; color: teal;
+}
 p{padding-bottom:21px;}
 
 ul {

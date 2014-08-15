@@ -75,6 +75,7 @@
                     	<ul>
                     		<li><a href="/page/barita">Barita</a></li>
                     	 	<li><a href="/page/hierro">Mineral de Hierro</a></li>
+                    	 	<li><a href="/page/arena_silica">Arena Silica</a></li>
                     		</ul>
                     </li>
                     <li><a href="#" class="<?php echo $curr_servicios ?>">Servicios</a></li>

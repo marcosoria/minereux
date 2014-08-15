@@ -61,9 +61,9 @@
 
         </div> 
 
-		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border: 1px dashed #333;">
-			<p><a href="#">Solicitar mayor informacion</a>
-			<p><a href="#">Marcar como favorito</a>
+		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
+			<p><a href="#">Solicitar mayor informacion</a><br />
+			<a href="#">Marcar como favorito</a></p>
 		
 		</div>
     </div>
