@@ -17,7 +17,7 @@
             </div>
 
             <div class="grid_4">
-                <p>El mapa muestra los puertos en los que se cargan y descargan los buques y las rutas que recorren para llegar a su destino. </p>
+                <p>En el mapa presentado a continuación se muestra la ubicación de los puertos en los que descargamos y cargamos material, y las localización de las minas en las que trabajamos actualmente. </p>
             </div>
 
         </div> 

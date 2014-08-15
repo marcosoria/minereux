@@ -93,6 +93,21 @@ class Page extends CI_Controller {
 		
 	}
 	
+	public function arena_ferrosa()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Arena Ferrosa';
+		$data['curr_productos'] = 'current';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/arena-silica', $data);
+		$this->load->view('templates/footer');
+		
+	}
+	
 	public function ruta()
 	{
 		//$this->load->view('page/home');
