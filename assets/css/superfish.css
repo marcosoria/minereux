@@ -13,7 +13,8 @@ nav{
 ul.sf-menu li:hover li ul,ul.sf-menu li.sfHover li ul {top:-999px; display:none;z-index:999}
 ul.sf-menu li li:hover ul,ul.sf-menu li li.sfHover ul {left:100%; top:0;z-index:999}
 ul.sf-menu>li{
-  background: url(../images/bg-li.jpg) left 0 repeat-y;
+  /*background: url(../images/bg-li.jpg) left 0 repeat-y;*/
+  background-color: #d6e03d;
   font-family: 'Open Sans Condensed';
   font-size: 16px; 
   line-height:20px;
@@ -25,7 +26,7 @@ ul.sf-menu>li{
   text-transform:uppercase;
   }
   ul.sf-menu>li:first-child{
-	  background: url(../images/bg-li-transparent.png) 0 0 no-repeat;
+	  /*background: url(../images/bg-li-transparent.png) 0 0 no-repeat;*/
 	  width:160px;
 	  }
 ul.sf-menu>li>a{
@@ -44,22 +45,28 @@ ul.sf-menu>li>a{
 		top:45px;
 		left:120px;
 		}
-ul.sf-menu>li.current , ul.sf-menu>li.sfHover , ul.sf-menu>li:hover {background: url(../images/bg-li-hov.jpg) 0 0 repeat;}
+ul.sf-menu>li.current , ul.sf-menu>li.sfHover , ul.sf-menu>li:hover {
+	/*background: url(../images/bg-li-hov.jpg) 0 0 repeat;*/
+	background-color: #fbab18;
+	}
 ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#fff;}
 
 .sf-menu>li>ul{
-	left:17px;
+	left:0;
 	top:88px;
-	width:126px;
+	width: 100%;
+	/*width:126px;*/
 	padding:19px 0 19px 0; 
 	z-index:99;
-	background: url(../images/bg-li-ul.jpg) 0 0 repeat; 
+	/*background: url(../images/bg-li-ul.jpg) 0 0 repeat; */
+	background-color: #fbab18;
 	border-radius: 0 0 6px 6px; 
 	}
 .sf-menu>li>ul>li {
 	 font-size: 12px; 
 	 line-height:16px; 
-	 padding:11px 0 11px 27px;
+	 /*padding:11px 0 11px 27px;*/
+	 padding: 10px;
 	 font-weight:normal;
 	 font-family: Arial, Helvetica, sans-serif;
 	 position:relative;
@@ -68,10 +75,10 @@ ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#f
 							
 .sf-menu>li>ul>li>a {
 	display: inline-block;
-	color:#8e8e8e ;
+	color:#333 ;
 	}
 .sf-menu>li>ul>li:hover, ul.sf-menu>li>ul>li.sfHover{}
-.sf-menu>li>ul>li>a:hover, ul.sf-menu>li>ul>li.sfHover a {color:#a83932;}
+.sf-menu>li>ul>li>a:hover, ul.sf-menu>li>ul>li.sfHover a {color:#000;}
 
 .sf-menu li li ul {
 	 left: 127px !important;

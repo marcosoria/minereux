@@ -9,7 +9,7 @@ $(function () {
     // options for the map
     var mapOptions = {
         center: mapCenter,
-        zoom: 5,
+        zoom: 14,
         mapTypeId: google.maps.MapTypeId.HYBRID,
         streetViewControl: true
     };

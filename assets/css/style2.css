@@ -28,10 +28,11 @@ body {
 	font-size:13px; 
 	line-height:21px;
 	color:#83868a;
-	background: url(../images/bg-body.jpg) 0 0 repeat #ebe9db;
+	/*background: url(../images/bg-body.jpg) 0 0 repeat #ebe9db;*/
+	background-color: #f6f6f6;
 	min-width:960px;
 	}
-.main{width:100%;height: auto; min-height:100%;background: url(../images/bg-main.jpg) 0 0 repeat;}
+.main{width:100%;height: auto; min-height:100%;/*background: url(../images/bg-main.jpg) 0 0 repeat;*/}
 /***********************************************************************/
 /*================================>Block-classes<==========================*/
 .txt-dec-n{text-decoration:none !important;}
@@ -544,7 +545,8 @@ footer{
 	text-transform:uppercase;
 	font-size: 12px; 
 	color:#555454 ;
-	background: url(../images/bg-body.jpg) 0 0 repeat; 
+	/*background: url(../images/bg-body.jpg) 0 0 repeat; */
+	background-color: #ccc;
 	text-indent:0;
 	}
 .main-footer{
