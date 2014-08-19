@@ -27,10 +27,13 @@ $(function () {
 	PlotMarker(9, 31.2243489, 121.4767528, '', 'image.jpg', 'Shanghái, China');
 	
 	function PlotMarker(id, lat, lon, description, image, title) {
+		var iconBase = '/assets/images/minereux_shape.png';
+		
         var marker = new google.maps.Marker({
             position: new google.maps.LatLng(lat, lon),
             map: map,
             draggable: false,
+            icon: iconBase,
             animation: google.maps.Animation.DROP
         });
 
