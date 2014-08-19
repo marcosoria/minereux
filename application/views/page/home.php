@@ -72,19 +72,19 @@
 
                                 <div id="camera_wrap">
                                     <div data-src="/assets/images/slide1.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">SOMOS PROFESIONALES, COMPETENTES Y COMPETITIVOS EN NUESTRO TRABAJO</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">Profesionales, Competitivos y Competentes en Nuestro Trabajo</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide2.jpg"> 
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">OFRECEMOS SERVICIOS DE CALIDAD</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">Productos y Servicio de Calidad</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide3.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner"></div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">Crecientes canales de distribución</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide4.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">CONOCE NUESTRAS RUTAS DE DISTRIBUCIÓN DE MINERAL</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">Conoce nuestras rutas de distribuci&oacute;n de mineral</div>
                                         </div>
                                     </div>
 
