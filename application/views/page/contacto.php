@@ -4,27 +4,20 @@
 $(function () {
 	var infowindow;
     
-    var mapCenter = new google.maps.LatLng(17.957917, -102.1907245);
+    var mapCenter = new google.maps.LatLng(25.6661799, -100.3201371);
 
     // options for the map
     var mapOptions = {
         center: mapCenter,
-        zoom: 1,
+        zoom: 5,
         mapTypeId: google.maps.MapTypeId.HYBRID,
         streetViewControl: true
     };
     // create a new map object to be shown in the map_canvas1 div elements and with the options that were set
     map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 	
-	PlotMarker(1, -30.0736415, -71.379146, '', 'image.jpg', 'Totoralillo, Chile');
-	PlotMarker(2, -29.9642015, -71.360706, '', 'image.jpg', 'Guayacan, Chile');
-	PlotMarker(3, -17.6518995, -71.3439596, '', 'image.jpg', 'Ilo, Perú');
-	PlotMarker(4, -17.0027033, -72.0999638, '', 'image.jpg', 'Matarani, Perú');
-	PlotMarker(5, -13.8331175, -75.9321355, '', 'image.jpg', 'Pisco, Perú');
-	PlotMarker(6, 19.0777207, -104.3377092, '', 'image.jpg', 'Manzanillo, México');
-	PlotMarker(7, 17.957917, -102.1907245, '', 'image.jpg', 'Lazaro Cárdenas, México');
-	PlotMarker(8, 41.4319504, -88.2262972, '', 'image.jpg', 'Wenona, EE. UU.');
-	PlotMarker(9, 31.2243489, 121.4767528, '', 'image.jpg', 'Shanghái, China');
+	PlotMarker(1, 25.6661799, -100.3201371, '', 'image.jpg', 'Oficinas Minereux');
+	
 	
 	function PlotMarker(id, lat, lon, description, image, title) {
 		var iconBase = '/assets/images/minereux_shape.png';
