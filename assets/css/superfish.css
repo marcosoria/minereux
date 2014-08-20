@@ -14,7 +14,7 @@ ul.sf-menu li:hover li ul,ul.sf-menu li.sfHover li ul {top:-999px; display:none;
 ul.sf-menu li li:hover ul,ul.sf-menu li li.sfHover ul {left:100%; top:0;z-index:999}
 ul.sf-menu>li{
   /*background: url(../images/bg-li.jpg) left 0 repeat-y;*/
-  background-color: #d6e03d;
+  background-color: #80a3b7;
   font-family: 'Open Sans Condensed';
   font-size: 16px; 
   line-height:20px;
@@ -47,7 +47,7 @@ ul.sf-menu>li>a{
 		}
 ul.sf-menu>li.current , ul.sf-menu>li.sfHover , ul.sf-menu>li:hover {
 	/*background: url(../images/bg-li-hov.jpg) 0 0 repeat;*/
-	background-color: #fbab18;
+	background-color: #007c85;
 	}
 ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#fff;}
 
@@ -59,7 +59,7 @@ ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#f
 	padding:19px 0 19px 0; 
 	z-index:99;
 	/*background: url(../images/bg-li-ul.jpg) 0 0 repeat; */
-	background-color: #fbab18;
+	background-color: #007c85;
 	border-radius: 0 0 6px 6px; 
 	}
 .sf-menu>li>ul>li {
@@ -75,10 +75,10 @@ ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#f
 							
 .sf-menu>li>ul>li>a {
 	display: inline-block;
-	color:#333 ;
+	color:#ccc ;
 	}
 .sf-menu>li>ul>li:hover, ul.sf-menu>li>ul>li.sfHover{}
-.sf-menu>li>ul>li>a:hover, ul.sf-menu>li>ul>li.sfHover a {color:#000;}
+.sf-menu>li>ul>li>a:hover, ul.sf-menu>li>ul>li.sfHover a {color:#fff;}
 
 .sf-menu li li ul {
 	 left: 127px !important;
