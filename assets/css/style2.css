@@ -29,7 +29,7 @@ body {
 	line-height:21px;
 	color:#83868a;
 	/*background: url(../images/bg-body.jpg) 0 0 repeat #ebe9db;*/
-	background-color: #f6f6f6;
+	background-color: #404040;
 	min-width:960px;
 	}
 .main{width:100%;height: auto; min-height:100%;/*background: url(../images/bg-main.jpg) 0 0 repeat;*/}
@@ -56,11 +56,11 @@ body {
 	line-height:14px;
 	}
 	.link img{margin:4px 0 0 2px;}
-	.link:hover{color:#a83932;}
+	.link:hover{color:#f15C22;}
 
 .col{color:#000000;}
 
-.hov:hover{color:#a83932;}
+.hov:hover{color:#f15C22;}
 .hov-1:hover{color:#000000;}
 
 .border-none{border: none !important;}
@@ -165,7 +165,7 @@ h1 a{
 	}
 h2{ font-size:24px; 
 	font-family: Arial, Helvetica, sans-serif ; 
-	color:#2b2b2b; 
+	color:#fff; 
 	line-height:30px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:bold;
@@ -174,34 +174,34 @@ h2{ font-size:24px;
 	}
 h3{ font-size:22px; 
 	font-family: Arial, Helvetica, sans-serif ; 
-	color:#2b2b2b; 
+	color:#fff; 
 	line-height:30px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:bold;
 	text-transform:uppercase;
 	letter-spacing:-1px;
-	text-shadow:1px 2px #c9cdc5;
+	text-shadow:1px 2px #000;
    }
    h3 span{
 	   position:relative;
-	   background: url(../images/bg-h3.png) 0 0 no-repeat;
+	   /*background: url(../images/bg-h3.png) 0 0 no-repeat;*/
 	   width:33px;
 	   height:33px;
 	   display:inline-block;
 	   margin:0 7px 0 0;
 	   }
-	   h3 a{color:#2b2b2b;}
-	   h3 a:hover{color:#a83932;}
+	   h3 a{color:#fff;}
+	   h3 a:hover{color:#ccc;}
 h4{
 	font-size:18px; 
 	font-family: Arial, Helvetica, sans-serif ; 
-	color:#2b2b2b; 
+	color:#fff; 
 	line-height:24px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:bold;
 	text-transform:uppercase;
 	letter-spacing:-1px;
-	text-shadow:1px 2px #c9cdc5;
+	text-shadow:1px 2px #000;
 	}
 
 h4 a {
@@ -209,7 +209,7 @@ h4 a {
 }
 
 h4 a:hover {
-	color: #A83932;
+	color: #f15C22;
 }
 /*********************************header*************************************/
 #page-1 .head{height:666px;}
@@ -244,7 +244,7 @@ header{
 	} 
 .adress dd{text-align:left;}
 .adress a{ 
-    color:#a83932 ; 
+    color:#f15C22 ; 
 	display:inline-block;
 	font-size: 13px;
 	margin-left: 1px; 
@@ -272,7 +272,7 @@ header{
 			}
 .pp{
 	display:inline-block; 
-	color:#a83932 ; 
+	color:#f15C22 ; 
 	}
 .pp:hover{
 	color:#000 ; 
@@ -285,7 +285,7 @@ header{
 	display:block;
 	font-weight:bold;
 	}
-.list li a{color:#a83932;}
+.list li a{color:#f15C22;}
 .list li a:hover{color:#000;}
 /**********************************index***********************************/
 .box{
@@ -319,7 +319,7 @@ header{
 		display:inline-block;
 		margin:5px 0 0 0;
 		}
-	.inner-box a:hover{color:#a83932;}
+	.inner-box a:hover{color:#f15C22;}
 		.inner-box a:after{
 			content:'';
 			background: url(../images/marker-1.png) 0 0 no-repeat;
@@ -425,7 +425,7 @@ header{
 	padding:10px 0 10px 12px;
 	}
 .list-1 li a{color:#010101;}
-.list-1 li a:hover{color:#90312b;}
+.list-1 li a:hover{color:#f15C22;}
 
 .list-2 li{
 
@@ -440,7 +440,7 @@ header{
 	color:#010101;
 	display: inline-block;
 	}
-.list-2 a:hover{color:#90312b;}
+.list-2 a:hover{color:#f15C22;}
 /**********************************index-2*********************************/
 
 /**********************************index-3*********************************/
@@ -572,7 +572,7 @@ footer{
 #icon-4{background: url(../images/icon-4.png) 0 0 no-repeat;}
 
 footer a{color:#555454;}
-footer a:hover{color:#90312b;text-decoration:underline;}
+footer a:hover{color:#f15C22;text-decoration:underline;}
 .menu-footer{
 	float:right;
 	padding:17px 0 0 0;
@@ -764,7 +764,7 @@ color:#f4dd1d;
 .ui-datepicker table thead th{
 	}
 .ui-datepicker th {
-	color:#a83932;
+	color:#f15C22;
 	font-weight:bold;
 	text-transform:uppercase;
 	text-align: center;
@@ -793,7 +793,7 @@ color:#f4dd1d;
 	line-height:18px;
 }
 .ui-datepicker td.ui-datepicker-today a, .ui-datepicker td:hover a, .ui-state-active a {
-	color:#a83932;
+	color:#f15C22;
 	font-weight:bold;
 }
 
@@ -812,7 +812,7 @@ figure img {
 
 a.gal {
 	display: block;
-	background: url(../images/magnify.png) center center no-repeat #A73A33;
+	background: url(../images/magnify.png) center center no-repeat #f15C22;
 }
 
 a.gal:hover img {
