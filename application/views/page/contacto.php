@@ -10,7 +10,7 @@ $(function () {
     var mapOptions = {
         center: mapCenter,
         zoom: 14,
-        mapTypeId: google.maps.MapTypeId.HYBRID,
+        mapTypeId: google.maps.MapTypeId.MAP,
         streetViewControl: true
     };
     // create a new map object to be shown in the map_canvas1 div elements and with the options that were set
