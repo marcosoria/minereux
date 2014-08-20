@@ -25,12 +25,12 @@ html, body {width:100%; padding:0; margin:0; height:100%;}
 
 body {
 	font-family: Arial, Helvetica, sans-serif ; 	 
-	font-size:13px; 
-	line-height:21px;
-	color:#83868a;
-	/*background: url(../images/bg-body.jpg) 0 0 repeat #ebe9db;*/
+	font-size:14px; 
+	line-height:20px;
+	color:#ccc;
+	background: url(../images/body.png) 0 0 repeat-x #404040 ;
 	background-color: #404040;
-	min-width:960px;
+	/*min-width:960px;*/
 	}
 .main{width:100%;height: auto; min-height:100%;/*background: url(../images/bg-main.jpg) 0 0 repeat;*/}
 /***********************************************************************/
@@ -48,6 +48,10 @@ body {
 	font-weight:bold;
 	letter-spacing:-1px;
 	}
+	
+.orange{
+	color: #f15C22;
+}
 .link{
 	display:inline-block;
 	text-transform:uppercase;
@@ -61,8 +65,9 @@ body {
 .col{color:#000000;}
 
 .hov:hover{color:#f15C22;}
+/*
 .hov-1:hover{color:#000000;}
-
+*/
 .border-none{border: none !important;}
 .bg-none{background: none !important;}
 
@@ -375,7 +380,7 @@ header{
 		.box-1-inner a:first-child{margin-left:0;}
 /**********************************index-1*********************************/
 .comment{
-	background:#e2dcc8;
+	background:#d9d9d9;
 	padding:19px 21px 27px 21px;
 	position:relative;
 	margin:0 0 20px 0;
@@ -546,7 +551,7 @@ footer{
 	font-size: 12px; 
 	color:#555454 ;
 	/*background: url(../images/bg-body.jpg) 0 0 repeat; */
-	background-color: #ccc;
+	background-color: #d9d9d9;
 	text-indent:0;
 	}
 .main-footer{
@@ -826,6 +831,7 @@ a.gal:hover img {
 
 .list-compromiso li{
 	margin-bottom: 16px;
+	color: #333;
 }
 
 /*==================================RESPONSIVE LAYOUTS===============================================*/
