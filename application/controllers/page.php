@@ -48,10 +48,26 @@ class Page extends CI_Controller {
 		
 	}
 	
+	public function productos()
+	{
+		//$this->load->view('page/home');
+		$data['page_title'] = 'Productos';
+		$data['curr_productos'] = 'current';
+		$data['curr_nosotros'] = '';
+		$data['curr_servicios'] = '';
+		$data['curr_blog'] = '';
+		$data['curr_contacto'] = '';
+		$this->load->view('templates/header', $data);
+		$this->load->view('page/productos', $data);
+		$this->load->view('templates/footer');
+		
+	}
+	
+	
 	public function barita()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Acerca de Nosotros';
+		$data['page_title'] = 'Productos - Barita';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
@@ -66,7 +82,7 @@ class Page extends CI_Controller {
 	public function hierro()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Acerca de Nosotros';
+		$data['page_title'] = 'Productos - Hierro';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
@@ -81,7 +97,7 @@ class Page extends CI_Controller {
 	public function arena_silica()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Arena Silica';
+		$data['page_title'] = 'Productos - Arena Silica';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
@@ -96,14 +112,14 @@ class Page extends CI_Controller {
 	public function arena_ferrosa()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Arena Ferrosa';
+		$data['page_title'] = 'Productos - Arena Ferrosa';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/header', $data);
-		$this->load->view('page/arena-silica', $data);
+		$this->load->view('page/arena-ferrosa', $data);
 		$this->load->view('templates/footer');
 		
 	}

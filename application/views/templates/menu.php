@@ -9,7 +9,7 @@
         </ul>
         -->
     </li>
-    <li class="<?php echo $curr_productos ?>"><a href="#">Productos</a> 
+    <li class="<?php echo $curr_productos ?>"><a href="/page/productos">Productos</a> 
         <ul>
             <li><a href="/page/barita">Barita</a></li>
             <li><a href="/page/hierro">Mineral de Hierro</a></li>
