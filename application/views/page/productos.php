@@ -12,12 +12,12 @@
 
             <div class="grid_6">
                 
-                <a href="#"><img src="/assets/images/barita.jpg" alt="Barita" /></a>
+                <a href="/page/barita"><img src="/assets/images/barita.jpg" alt="Barita" /></a>
                                
             </div>
 
             <div class="grid_6">
-                <a href="#"><img src="/assets/images/hierro.jpg" alt="Hierro" /></a>
+                <a href="/page/hierro"><img src="/assets/images/hierro.jpg" alt="Hierro" /></a>
             </div>
 
         </div> 
@@ -25,12 +25,12 @@
         <div class="wrapper" style="margin-top: 24px;">
             
             <div class="grid_6">
-                <a href="#"><img src="/assets/images/arena-silica" alt="Arena Silica" /></a>
+                <a href="/page/arena-silica"><img src="/assets/images/arena-silica" alt="Arena Silica" /></a>
 
             </div>
 
             <div class="grid_6">
-                <a href="#"><img src="/assets/images/arena-ferrosa" alt="Arena Ferrosa" /></a>
+                <a href="/page/arena-ferrosa"><img src="/assets/images/arena-ferrosa" alt="Arena Ferrosa" /></a>
             </div>
 
         </div> 
