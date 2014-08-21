@@ -28,7 +28,7 @@ body {
 	font-size:14px; 
 	line-height:20px;
 	color:#ccc;
-	background: url(../images/body.png) 0 0 repeat-x #404040 ;
+	background: url(../images/body2.png) 0 0 repeat-x #404040 ;
 	background-color: #404040;
 	/*min-width:960px;*/
 	}
@@ -225,7 +225,7 @@ h4 a:hover {
 	color: #f15C22;
 }
 /*********************************header*************************************/
-#page-1 .head{height:666px;}
+#page-1 .head{height:660px;}
 .head{
 	width:100%;  
 	position:relative; 
@@ -563,8 +563,8 @@ footer{
 	text-indent:0;
 	}
 .main-footer{
-	padding-top: 65px; 
-	padding-bottom: 65px;
+	padding-top: 100px; 
+	padding-bottom: 100px;
 	}
 .main-footer p span{
 	display:inline-block;

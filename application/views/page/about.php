@@ -106,13 +106,13 @@
             <div class="grid_6">
                 <h3>Visi&oacute;n</h3>
                 <p>
-                Ser una empresa líder en el sector, con proyecciones en la comunidad y comprometida con el crecimiento de nuestro país a través de actividades de desarrollo, buscando a través de la mejora constante, expandir nuestra participación enmarcada por la ética comercial. 
+                Ser una empresa reconocida globalmente, con un portafolio de productos y servicios para la industria minera y de energía, enfocado en generar valor agregado a través de mejores prácticas de negocios y con acceso a los mercados internacionales.                 
                 </p>
             </div>
             <div class="grid_6">
                 <h3>Misi&oacute;n</h3>
                 <p>
-                Posicionarnos como líderes en el mercado  de la comercialización del mineral de hierro y la barita ofreciendo altos estándares de calidad 
+                Desarrollar un portafolio de proyectos bajo el esquema de servicios integrados para la industria minera y de energía, a través de la inversión en la más alta tecnología e innovación de procesos que generé valor agregado en las diferentes etapas de la cadena de negocio, promoviendo altos estándares de calidad en nuestros productos y servicios, convirtiéndonos en un socio estratégico para nuestros clientes apoyándolos a obtener mayores niveles de eficiencia y competitividad.                
                 </p>
             </div>
             

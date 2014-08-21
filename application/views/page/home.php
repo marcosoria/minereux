@@ -53,21 +53,18 @@
     
         <![endif]-->
     </head>
-    <body id="page-1">
+    <body id="page-1" style="background: url(/assets/images/body.png) 0 0 repeat-x #404040;">
         <!--==============================header=================================-->
         <div class="main">
             <div class="head">      
                 <header class="container_12">
                     <h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
-                    <nav class="grid_12"> 
-                        <?php $this->load->view('templates/menu.php'); ?>
-                        <div class="clear"></div>
-                    </nav>
+                    
                     <div class="clear"></div>
 
 
                     <div class="grid_12">
-                        <div id="slide" style="margin-bottom: 24px;">
+                        <div id="slide">
                             <div class="slider_wrapper">           
 
                                 <div id="camera_wrap">
@@ -89,6 +86,10 @@
                                 </div></div>
                         </div>
                     </div>
+                    <nav class="grid_12"> 
+                        <?php $this->load->view('templates/menu.php'); ?>
+                        <div class="clear"></div>
+                    </nav>
                 </header>
             </div> 
             <!--==============================content================================-->
