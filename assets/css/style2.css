@@ -609,6 +609,8 @@ footer a:hover{color:#f15C22;text-decoration:underline;}
 	}
 
 
+
+
 /*
 |--------------------------------------------------------------------------
 | UItoTop jQuery Plugin 1.1
@@ -835,11 +837,22 @@ a.gal:hover img {
 
 .list-compromiso{
 	list-style-type: disc;
+	list-style-position: outside;
+	margin: 20px;
 }
 
 .list-compromiso li{
 	margin-bottom: 16px;
+	color: #f15C22;
+	font-size: 1.3em;
+}
+
+.list-compromiso li span{
 	color: #333;
+}
+
+.list-objetivos li span{
+	color: #ccc !important;
 }
 
 /*==================================RESPONSIVE LAYOUTS===============================================*/
