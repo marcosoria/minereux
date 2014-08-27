@@ -25,6 +25,7 @@ $(function () {
 	PlotMarker(7, 17.957917, -102.1907245, '', 'image.jpg', 'Lazaro Cárdenas, México');
 	PlotMarker(8, 41.4319504, -88.2262972, '', 'image.jpg', 'Wenona, EE. UU.');
 	PlotMarker(9, 31.2243489, 121.4767528, '', 'image.jpg', 'Shanghái, China');
+	PlotMarker(10, 28.7654208, -96.5022805, '', 'image.jpg', 'Port Lavaca, Texas');
 	
 	function PlotMarker(id, lat, lon, description, image, title) {
 		var iconBase = '/assets/images/minereux_shape.png';
