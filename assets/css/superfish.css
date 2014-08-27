@@ -1,8 +1,8 @@
 /*=======================superfish=========================*/
 nav{
 	display:block;
-	background: url(../images/bg-nav.jpg) 0 0 repeat;
-	/*background-color: #d6e03d;*/
+	/*background: url(../images/bg-nav.jpg) 0 0 repeat;*/
+	background-color: #bfbfbf;
 	width:940px;
 	margin:0 auto;
 	}
@@ -22,13 +22,16 @@ ul.sf-menu>li{
   display:block;
   float:left; 
   position:relative;
-  width:156px;
+  width:188px;
   text-transform:uppercase;
   }
+/*
   ul.sf-menu>li:first-child{
-	  /*background: url(../images/bg-li-transparent.png) 0 0 no-repeat;*/
+	  background: url(../images/bg-li-transparent.png) 0 0 no-repeat;
 	  width:160px;
+	  
 	  }
+	  */
 ul.sf-menu>li>a{
 	display:block;
 	text-align:center;

@@ -1,6 +1,5 @@
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script type="text/javascript">
-
 $(function () {
 	var infowindow;
     
@@ -97,16 +96,17 @@ $(function () {
                 <figure class="figure-1 bot-1">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3595.748013904002!2d-100.3186777!3d25.679646599999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629588d9bd438d%3A0x73e6a991ee01ca1a!2sAv+Jos%C3%A9+Ma.+Pino+Su%C3%A1rez+300%2C+Centro%2C+64000+Monterrey%2C+NL!5e0!3m2!1ses-419!2smx!4v1408067880453" width="600" height="450" frameborder="0" style="border:0"></iframe>
                 </figure>-->
-                <div class="grid_3 alpha">
+                <div class="grid_7 omega">
                     <div class="title1">
-                        Privada Pino Suárez # 300 piso 8<br />
-                        Col. Centro Monterrey, N.L. <br />
-                        CP 64000<br />
+                        Privada Pino Suárez # 300 piso 8,
+                        Col. Centro Monterrey, N.L.,
+                        CP 64000.
                         Tel. (81) 4000.2025
                          
                     </div>
 
                 </div>
+                <!--
                 <div class="grid_4 omega">
                     <dl class="adress">
                         <dt></dt>                        
@@ -114,6 +114,7 @@ $(function () {
                         <dd><strong>Skype:</strong> <a href="#">@minereux</a></dd>
                     </dl>
                 </div>
+                -->
                 <div class="clear"></div>
             </div>
 

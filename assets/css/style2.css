@@ -141,6 +141,13 @@ p{padding-bottom:21px;}
 	-o-transition: background 0.5s ease;
 	text-shadow:1px 1px #333;
 	}
+	
+.grid_7 .title1{
+	color: #ccc;
+	margin-top: 6px;
+	font-size: 12px;
+}
+
 .button:hover{
 	color:#fff ;
 	background:#000 ;
