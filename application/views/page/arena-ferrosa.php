@@ -4,7 +4,7 @@
 
         <div class="wrapper">
             <div class="grid_12">
-                <h3 class="bot-3">ARENA SILICA</h3>
+                <h3 class="bot-3">ARENAS FERROSAS</h3>
 
             </div><!--end of wrapper-->
         </div>      	        
@@ -13,27 +13,27 @@
 
             <div class="grid_8">
 
-                <p>Es un compuesto resultante de la combinación del silice con el oxígeno. Su composición química ésta formada por un átomo de silice y 2 de oxígeno: SiO2
+                <p>Las <span class="orange">Arenas Ferrosas</span> son un conjunto de varias otras part&iacute;culas de hierro de aproximadamente 20 a 200 um.</p>
                  </p>
 
-                <p>Es  uno de los principales componentes de la arena. Cuando se ordena éste compuesto en una red tridimensional se forma el cuarzo y sus variedades. 
+                <p>Sus propiedades var&iacute;an en funci&oacute;n del m&eacute;todo de producci&oacute;n y se utilizan para diferentes aplicaciones dependiendo de sus respectivas propeidades.
                 </p>
 
-                <p>Los usos de éste material derivan de sus importantes propiedades físicas y químicas, como lo son su dureza, su resistencia química, su alto punto de fusión, piezoelectricidad, piroelectricidad y transparencia. 
+                <p>Los productos de arenas ferrosas se clasifican por la pureza del material, el m&eacute;todo de producci&oacute;n, el grano y la densidad. 
                 </p>
 
                 <h4>PRINCIPALES USOS</h4>
                 <ul>
-                    <li> Es la materia prima fundamental para la fabricación del vidrio y de la porcelana. 
+                    <li> La mayor&iacute;a de las arenas ferrosas se utiliza para piezas de autom&oacute;viles. 
                     </li>
 
-                    <li> Se utilizan como lecho filtrante para depuración y potabilización del agua.
+                    <li> Se utilizan para soldaduras fuertes.
                      </li>
 
-                    <li> Por su dureza, son usadas para fabricación de lejías, abrasivos industriales y arenados. 
+                    <li> En productos de fricci&oacute;n. 
                      </li>
 
-                    <li> Para fabricar piezas de fundición que se utilizan en la producción de pozos en la industria petrolera. </li>
+                    <li> Para recubrimiento de superficies. </li>
                 </ul>
 
 
@@ -53,12 +53,17 @@
 
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
-                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">Contamos con arenas silicas de diferentes tamaños, tanto redonda como angular.
+                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">
+                <ul>
+                <li>Disponemos de <span class="orange">Arenas Ferrosas</span> a partir de 65% ley.</li>
+                <li>Tenemos capacidad mensual de 100,000 toneladas con posibilidad de incrementarla de acuerdo a las necesidades de nuestros clientes.</li>
+                <li>Los puertos de embarque est&aacute;n en <span class="orange">Chile</span> y <span class="orange">M&eacute;xico</span></li>
+                </ul>
                   </p>
             </div>
 
             <div class="grid_4">
-                <img src="/assets/images/arena2.jpg" alt="Arena Silica" style="width: 100%;" />
+                <img src="/assets/images/prod-arenaferrosa.jpg" alt="Arena Silica" style="width: 100%;" />
 
 
             </div>
