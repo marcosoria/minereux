@@ -28,7 +28,7 @@
 
         <div class="wrapper">
             <div class="grid_12">
-                <h3 class="bot-3">PRODUCTOS</h3>
+                <h3 class="bot-3">PRODUCTS</h3>
             </div><!--end of wrapper-->
         </div>      	        
 
@@ -39,7 +39,7 @@
                 <a href="/page/hierro">
                 	<img src="/assets/images/mineral_hierro_white.jpg" alt="Hierro" />
                 	<div class="overlay">
-                		<h3>Mineral de Hierro</h3>
+                		<h3>Iron Ore</h3>
                 	</div>
                 </a>
             </div>
@@ -48,7 +48,7 @@
                 <a href="/page/arena_ferrosa">
                 	<img src="/assets/images/arenas_ferrosas_white.jpg" alt="Arena Ferrosa" />
                 	<div class="overlay">
-                		<h3>Arena Ferrosa</h3>
+                		<h3>Ferric Sand</h3>
                 	</div>
                 </a>
             </div>
@@ -66,7 +66,7 @@
                 <a href="/page/barita">
                 	<img src="/assets/images/barita_white.jpg" alt="Barita" />
                 	<div class="overlay">
-                		<h3>Barita</h3>
+                		<h3>Barite</h3>
                 	</div>
                 </a>
                                
@@ -76,7 +76,7 @@
                 <a href="/page/arena_silica">
                 	<img src="/assets/images/arena_silica_white.jpg" alt="Arena Silica" />
                 	<div class="overlay">
-                		<h3>Arena Frac</h3>
+                		<h3>Silica Sand</h3>
                 	</div>
                 </a>
 
@@ -85,11 +85,6 @@
             
 
         </div> 
-
-		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
-			<p><a href="#">Solicitar mayor informacion</a><br />
-			<a href="#">Marcar como favorito</a></p>
 		
-		</div>
     </div>
 </section>

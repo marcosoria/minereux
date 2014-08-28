@@ -19,7 +19,7 @@ class English extends CI_Controller {
 	 */
 	public function index()
 	{
-		$data['page_title'] = 'Arena Silica';
+		$data['page_title'] = 'Home';
 		$data['curr_productos'] = '';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
@@ -31,7 +31,7 @@ class English extends CI_Controller {
 		
 	}
 	
-	public function aboutus()
+	public function about_us()
 	{
 		$data['page_title'] = 'About Us';
 		$data['curr_nosotros'] = 'current';
@@ -54,15 +54,15 @@ class English extends CI_Controller {
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/productos', $data);
+		$this->load->view('english/products', $data);
 		$this->load->view('templates/english/footer');
 		
 	}
 	
 	
-	public function barita()
+	public function barite()
 	{
-		$data['page_title'] = 'Products - Barita';
+		$data['page_title'] = 'Products - Barite';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
@@ -74,46 +74,46 @@ class English extends CI_Controller {
 		
 	}
 	
-	public function hierro()
+	public function iron_ore()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Products - Hierro';
+		$data['page_title'] = 'Products - Iron Ore';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/hierro', $data);
+		$this->load->view('english/iron-ore', $data);
 		$this->load->view('templates/english/footer');
 		
 	}
 	
-	public function arena_silica()
+	public function silica_sand()
 	{
 		//$this->load->view('page/home');
-		$data['page_title'] = 'Products - Arena Silica';
+		$data['page_title'] = 'Products - Silica Sand';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/arena-silica', $data);
+		$this->load->view('english/silica-sand', $data);
 		$this->load->view('templates/english/footer');
 		
 	}
 	
-	public function arena_ferrosa()
+	public function ferric_sand()
 	{
-		$data['page_title'] = 'Products - Arena Ferrosa';
+		$data['page_title'] = 'Products - Ferric Sand';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/arena-ferrosa', $data);
+		$this->load->view('english/ferric-sand', $data);
 		$this->load->view('templates/english/footer');
 		
 	}
@@ -127,7 +127,7 @@ class English extends CI_Controller {
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/ruta', $data);
+		$this->load->view('english/routes', $data);
 		$this->load->view('templates/english/footer');
 		
 	}
@@ -141,7 +141,7 @@ class English extends CI_Controller {
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = 'current';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/contacto', $data);
+		$this->load->view('english/contact', $data);
 		$this->load->view('templates/english/footer');
 		
 	}

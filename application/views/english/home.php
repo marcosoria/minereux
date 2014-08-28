@@ -79,15 +79,15 @@
 
                                 <div id="camera_wrap">
                                     <div data-src="/assets/images/slide1new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">TRABAJAMOS PROFESIONAL, COMPETENTE Y COMPETITIVAMENTE</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">WORKING PROFESIONALLY, COMPETENTLY AND COMPETETIVELY</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide2new.jpg"> 
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">OFRECEMOS PRODUCTOS Y SERVICIOS DE CALIDAD</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">OFFERING HIGH QUALITY PRODUCTS AND SERVICES</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide3new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">CONTAMOS CON CRECIENTES PUNTOS DE DISTRIBUCIÓN</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">CONSTANTLY INCREASING DISTRIBUTION CHANNELS</div>
                                         </div>
                                     </div>
 
@@ -97,7 +97,7 @@
                         </div>
                     </div>
                     <nav class="grid_12"> 
-                        <?php $this->load->view('templates/menu.php'); ?>
+                        <?php $this->load->view('templates/english/menu.php'); ?>
                         <div class="clear"></div>
                     </nav>
                 </header>
