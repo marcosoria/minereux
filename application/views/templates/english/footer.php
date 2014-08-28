@@ -3,14 +3,14 @@
       <div class="main-footer">
     <div class="container_12">                <div class="grid_6 ff_right">
                    <ul class="menu-footer">            
-                <li><a href="/page/nosotros">Nosotros</a></li>
-                <li><a href="/page/productos">Productos</a></li>
-                <li><a href="/page/ruta">Distribuci&oacute;n</a></li>
-                <li><a href="/page/contacto">Contacto</a></li>
+                <li><a href="/english/aboutus">About Us</a></li>
+                <li><a href="/english/products">Productos</a></li>
+                <li><a href="/english/routes">Routes</a></li>
+                <li><a href="/english/contact">Contact</a></li>
                  </ul>
                 </div>
               <div class="grid_6">
-                <p><a href="index.html"><img src="/assets/images/logo_gray.png" alt="" height="48"></a> <span>&copy; <?php echo date('Y') ?> | <a href="#">Pol&iacute;ticas de Privacidad</a> <br><!--{%FOOTER_LINK} --></span></p>
+                <p><a href="index.html"><img src="/assets/images/logo_gray.png" alt="" height="48"></a> <span>&copy; <?php echo date('Y') ?> | <a href="#">Privacy Policy</a> <br><!--{%FOOTER_LINK} --></span></p>
                     <div class="icons">
                     <!--
                        <a href="#" id="icon"></a>
