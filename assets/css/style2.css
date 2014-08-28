@@ -15,7 +15,14 @@ text-decoration:none;
 }
 /**/
 /*font-family: 'Open Sans Condensed', sans-serif;*/
+p{
+	text-align: justify;
+}
 
+.img_wrapper{
+	border: solid #333 4px;
+	padding: 4px;
+}
 /* Getting the new tags to behave */
 article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block;}
 mark, rp, rt, ruby, summary, time {display:inline;}

@@ -40,7 +40,9 @@
             </div>
 
             <div class="grid_4">
+	            <div class="img_wrapper">
                 <img src="/assets/images/arena1.jpg" alt="Arena Silica" style="width: 100%;" />
+                </div>
             </div>
 
 
@@ -63,8 +65,9 @@
             </div>
 
             <div class="grid_4">
-                <img src="/assets/images/prod-arenaferrosa.jpg" alt="Arena Silica" style="width: 100%;" />
-
+            	<div class="img_wrapper">
+                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />
+				</div>
 
             </div>
 

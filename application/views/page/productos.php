@@ -76,7 +76,7 @@
                 <a href="/page/arena_silica">
                 	<img src="/assets/images/arena_silica_white.jpg" alt="Arena Silica" />
                 	<div class="overlay">
-                		<h3>Arena Silica</h3>
+                		<h3>Arena Frac</h3>
                 	</div>
                 </a>
 

@@ -4,7 +4,7 @@
 
         <div class="wrapper">
             <div class="grid_12">
-                <h3 class="bot-3">ARENA SILICA</h3>
+                <h3 class="bot-3">ARENA FRAC</h3>
 
             </div><!--end of wrapper-->
         </div>      	        
@@ -13,34 +13,33 @@
 
             <div class="grid_8">
 
-                <p>Es un compuesto resultante de la combinación del silice con el oxígeno. Su composición química ésta formada por un átomo de silice y 2 de oxígeno: SiO2
+                <p>
+                La <span class="orange">Arena Frac</span> es uncuarzo con ul alto nivel de pureza, bastante durable y con granos muy redondos. Gracias a &eacute;sta forma redonda, el agua y los gaes pasan facilmente a trav&eacute;s de ella.
                  </p>
 
-                <p>Es  uno de los principales componentes de la arena. Cuando se ordena éste compuesto en una red tridimensional se forma el cuarzo y sus variedades. 
+                <p>La mayor&iacute;a de la arena frac es un mineral natural formado por la alta pureza de las piedras de arena.
                 </p>
 
-                <p>Los usos de éste material derivan de sus importantes propiedades físicas y químicas, como lo son su dureza, su resistencia química, su alto punto de fusión, piezoelectricidad, piroelectricidad y transparencia. 
+                <p>
+                Los usos de &eacute;ste mineral derivan de las importantes propiedades qu&iacute;micas y f&iacute;sicas que posee, como lo son su dureza y su resistencia a los impactos, siendo &eacute;sta &uacute;ltima propiedad la raz&oacute;n por la cual su uso principal es en la industria petrolera y fracturaci&oacute;n hidr&aacute;ulica.
                 </p>
 
                 <h4>PRINCIPALES USOS</h4>
                 <ul>
-                    <li> Es la materia prima fundamental para la fabricación del vidrio y de la porcelana. 
+                    <li> 
+                    Para fabricar piezas de fundici&oacute;n que se utilizan en la producci&oacute;n de pozos de la industria petrolera y en el proceso conocido como "fracking" o fracturaci&oacute;n hidr&aacute;ulica.
                     </li>
 
-                    <li> Se utilizan como lecho filtrante para depuración y potabilización del agua.
-                     </li>
-
-                    <li> Por su dureza, son usadas para fabricación de lejías, abrasivos industriales y arenados. 
-                     </li>
-
-                    <li> Para fabricar piezas de fundición que se utilizan en la producción de pozos en la industria petrolera. </li>
+                    
                 </ul>
 
 
             </div>
 
             <div class="grid_4">
-                <img src="/assets/images/arena1.jpg" alt="Arena Silica" style="width: 100%;" />
+            	<div class="img_wrapper">
+	                <img src="/assets/images/frac1.jpg" alt="Arena Frac" style="width: 100%;" />
+                </div>
             </div>
 
 
@@ -53,13 +52,19 @@
 
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
-                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">Contamos con arenas silicas de diferentes tamaños, tanto redonda como angular.
+                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">
+                <ul>
+                	<li>Contmos con <span class="orange">Arena Frac</span> en mallas de 20/40, 30/50, 40/70 y 100, cumpliendo los &iacute;ndices de calidad PSL.</li>
+                	<li>Adicionalmente contamos con procesadores de arena en los estados de Minnesota, Arkansas y Texas.</li>
+                	<li>Actualmente contamos con una capacidad menusal de 300,000 toneladas.</li>
+                </ul>
                   </p>
             </div>
 
             <div class="grid_4">
-                <img src="/assets/images/arena2.jpg" alt="Arena Silica" style="width: 100%;" />
-
+            	<div class="img_wrapper">
+	                <img src="/assets/images/frac2.jpg" alt="Arena Frac" style="width: 100%;" />
+				</div>
 
             </div>
 

@@ -34,7 +34,9 @@
             </div>
 
             <div class="grid_4">
+            	<div class="img_wrapper">
                 <img src="/assets/images/hierro.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+                </div>
             </div>
 
 
@@ -47,12 +49,18 @@
 
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
-                <p>En <strong>MINEREUX</strong> actualmente contamos con una capacidad mensual de 100 mil toneladas durante los primeros 2 meses, 150 mil del tercero al sexto y 200 mil toneladas a partir del séptimo mes. Los puertos de embarque están en Chile y en Perú y Totoralillo, en Guayacán, en Ilo Matarani y Pisco.  </p>
+                <ul>
+                	<li>Disponemos de Mineral de Hierro a partir de  62% ley y de baja ley del 52% al 58%</li>
+                  	<li>Tenemos una capacidad mensual arriba de 200,000 toneladas con posibilidad de incrementarla conforme a las necesidades de nuestros clientes.</li>
+                	<li>Actualmente contamos con mineral en los países de, Chile, Perú y México. </li>
+                </ul>
+                
             </div>
 
             <div class="grid_4">
+            	<div class="img_wrapper">
                 <img src="/assets/images/hierro2.jpg" alt="Mineral de Hierro" style="width: 100%;" />
-
+</div>
 
             </div>
 

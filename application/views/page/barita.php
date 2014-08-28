@@ -37,7 +37,9 @@
             </div>
 
             <div class="grid_4">
+            <div class="img_wrapper">
                 <img src="/assets/images/barita.jpg" alt="Barita" style="width: 100%;" />
+                </div>
             </div>
 
         </div> 
@@ -46,17 +48,20 @@
             
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
-                <p>
-                    Tenemos proveedores de importación tanto en China como en Guatemala y Estados Unidos. 
-                    Actualmente nos encontramos realizando negociaciones con proveedores del mineral en Guatemala
-                    Disponemos de una amplia infraestructura para atender eficientemente la demanda de nuestros clientes. 
-                    Tenemos barita molida en sacos jumbo, barita molida en sacos y barita en malla 
-                </p> 
+                <ul>
+                	<li>Contamos con Barita de alta calidad en diferentes zonas y regiones del país para satisfacer las diferentes necesidades de nuestros clientes.</li>
+                  	<li>Adicionalmente contamos con proveedores a lo largo de América Latina.</li>
+                  	<li>Disponemos de una amplia infraestructura para atender eficientemente la demanda de nuestros clientes.</li>
+                  	<li>Tenemos barita molida en sacos jumbo, barita en malla 200 y barita en breña.</li>
+                </ul>
+
 
             </div>
 
             <div class="grid_4">
-                <img src="/assets/images/barita2.jpg" alt="Barita" style="width: 100%;" />
+            <div class="img_wrapper">
+                <img src="/assets/images/barita3.jpg" alt="Barita" style="width: 100%;" />
+                </div>
             </div>
 
         </div> 

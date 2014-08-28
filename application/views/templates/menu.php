@@ -13,7 +13,7 @@
         <ul>
             <li><a href="/page/barita">Barita</a></li>
             <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            <li><a href="/page/arena_silica">Arena Silica</a></li>
+            <li><a href="/page/arena_silica">Arena Frac</a></li>
             <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
         </ul>
     </li>
