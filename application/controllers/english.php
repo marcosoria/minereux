@@ -69,7 +69,7 @@ class English extends CI_Controller {
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/barita', $data);
+		$this->load->view('english/barite', $data);
 		$this->load->view('templates/english/footer');
 		
 	}

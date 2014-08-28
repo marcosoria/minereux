@@ -14,7 +14,7 @@
             <div class="grid_8">
 
                 <p>
-                La <span class="orange">Arena Frac</span> es uncuarzo con ul alto nivel de pureza, bastante durable y con granos muy redondos. Gracias a &eacute;sta forma redonda, el agua y los gaes pasan facilmente a trav&eacute;s de ella.
+                La <span class="orange">Arena Frac</span> es uncuarzo con ul alto nivel de pureza, bastante durable y con granos muy redondos. Gracias a &eacute;sta forma redonda, el agua y los gases pasan facilmente a trav&eacute;s de ella.
                  </p>
 
                 <p>La mayor&iacute;a de la arena frac es un mineral natural formado por la alta pureza de las piedras de arena.

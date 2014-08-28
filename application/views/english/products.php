@@ -36,7 +36,7 @@
 
             
             <div class="grid_6">
-                <a href="/page/hierro">
+                <a href="/english/iron_ore">
                 	<img src="/assets/images/mineral_hierro_white.jpg" alt="Hierro" />
                 	<div class="overlay">
                 		<h3>Iron Ore</h3>
@@ -45,7 +45,7 @@
             </div>
             
             <div class="grid_6">
-                <a href="/page/arena_ferrosa">
+                <a href="/english/ferric_sand">
                 	<img src="/assets/images/arenas_ferrosas_white.jpg" alt="Arena Ferrosa" />
                 	<div class="overlay">
                 		<h3>Ferric Sand</h3>
@@ -63,7 +63,7 @@
             
             <div class="grid_6">
                 
-                <a href="/page/barita">
+                <a href="/english/barite">
                 	<img src="/assets/images/barita_white.jpg" alt="Barita" />
                 	<div class="overlay">
                 		<h3>Barite</h3>
@@ -73,7 +73,7 @@
             </div>
             
             <div class="grid_6">
-                <a href="/page/arena_silica">
+                <a href="/english/silica_sand">
                 	<img src="/assets/images/arena_silica_white.jpg" alt="Arena Silica" />
                 	<div class="overlay">
                 		<h3>Silica Sand</h3>

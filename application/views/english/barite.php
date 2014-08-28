@@ -38,7 +38,7 @@
 
             <div class="grid_4">
             <div class="img_wrapper">
-                <img src="/assets/images/barita.jpg" alt="Barita" style="width: 100%;" />
+                <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
                 </div>
             </div>
 

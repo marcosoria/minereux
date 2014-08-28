@@ -35,7 +35,7 @@
 
             <div class="grid_4">
             	<div class="img_wrapper">
-                <img src="/assets/images/hierro.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+                <img src="/assets/images/hierro1.jpg" alt="Mineral de Hierro" style="width: 100%;" />
                 </div>
             </div>
 
@@ -59,7 +59,7 @@
 
             <div class="grid_4">
             	<div class="img_wrapper">
-                <img src="/assets/images/hierro2.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+                <img src="/assets/images/hierro3.jpg" alt="Mineral de Hierro" style="width: 100%;" />
 </div>
 
             </div>

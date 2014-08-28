@@ -69,7 +69,7 @@
             <div class="head">      
                 <header class="container_12">
                     <h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
-                    
+                    <a href="/" class="flag_mex">Español</a>
                     <div class="clear"></div>
 
 

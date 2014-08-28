@@ -13,6 +13,29 @@ text-decoration:none;
 * {
 	-webkit-text-size-adjust: none;
 }
+
+.flag_mex{
+	width: 48px;
+	height: 48px;
+	display: block;
+	background:  url('/assets/images/flag_mex.png') no-repeat left top;
+	text-indent: -100000px;
+	position: absolute;
+	top: 30px;
+	right: 10px;
+}
+
+.flag_usa{
+	
+	width: 48px;
+	height: 48px;
+	display: block;
+	background:  url('/assets/images/flag_usa.png') no-repeat left top;
+	text-indent: -100000px;
+	position: absolute;
+	top: 30px;
+	right: 10px;
+}
 /**/
 /*font-family: 'Open Sans Condensed', sans-serif;*/
 p{
