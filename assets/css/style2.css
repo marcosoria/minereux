@@ -38,8 +38,9 @@ text-decoration:none;
 }
 /**/
 /*font-family: 'Open Sans Condensed', sans-serif;*/
-p{
+p, li{
 	text-align: justify;
+	font-weight: bold;
 }
 
 .img_wrapper{
