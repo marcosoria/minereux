@@ -76,7 +76,6 @@ class English extends CI_Controller {
 	
 	public function iron_ore()
 	{
-		//$this->load->view('page/home');
 		$data['page_title'] = 'Products - Iron Ore';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
@@ -91,7 +90,6 @@ class English extends CI_Controller {
 	
 	public function silica_sand()
 	{
-		//$this->load->view('page/home');
 		$data['page_title'] = 'Products - Silica Sand';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
@@ -147,5 +145,5 @@ class English extends CI_Controller {
 	}
 }
 
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
+
+/* Location: ./application/controllers/english.php */
