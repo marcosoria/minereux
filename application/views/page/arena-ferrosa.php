@@ -16,7 +16,7 @@
                 <p>Las <span class="orange">Arenas Ferrosas</span> son un conjunto de varias otras part&iacute;culas de hierro de aproximadamente 20 a 200 um.</p>
                  </p>
 
-                <p>Sus propiedades var&iacute;an en funci&oacute;n del m&eacute;todo de producci&oacute;n y se utilizan para diferentes aplicaciones dependiendo de sus respectivas propeidades.
+                <p>Sus propiedades var&iacute;an en funci&oacute;n del m&eacute;todo de producci&oacute;n y se utilizan para diferentes aplicaciones dependiendo de sus respectivas propiedades.
                 </p>
 
                 <p>Los productos de arenas ferrosas se clasifican por la pureza del material, el m&eacute;todo de producci&oacute;n, el grano y la densidad. 
