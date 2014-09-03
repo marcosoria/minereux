@@ -4,7 +4,7 @@
         <title>Minereux <?php if (!empty($page_title)) echo " - $page_title" ?></title>
         <meta charset="utf-8">
         <meta name = "format-detection" content = "telephone=no" />
-        <link rel="icon" href="images/favicon.ico">
+        <link rel="icon" href="/assets/images/minereux_shape.png">
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="stylesheet" href="/assets/css/style2.css">
         <link rel="stylesheet" href="/assets/css/camera.css">
