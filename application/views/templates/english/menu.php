@@ -10,12 +10,12 @@
         -->
     </li>
     <li class="<?php echo $curr_productos ?>"><a href="/english/products">Products</a> 
-        <ul>
+        <!--<ul>
             <li><a href="/english/barite">Barite</a></li>
             <li><a href="/english/iron_ore">Iron Ore</a></li>
             <li><a href="/english/silica_sand">Silica Sand</a></li>
             <li><a href="/english/ferric_sand">Ferric Sand</a></li>
-        </ul>
+        </ul>-->
     </li>
     <li class="<?php echo $curr_servicios ?>"><a href="/english/routes">Routes</a></li>     
     <li class="<?php echo $curr_contacto ?>"><a href="/english/contact">Contact</a></li> 

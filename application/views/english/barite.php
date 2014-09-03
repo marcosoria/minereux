@@ -4,7 +4,7 @@
 
         <div class="wrapper">
             <div class="grid_12">
-                <h3 class="bot-3">BARITA (BARITINA)</h3>
+                <h3 class="bot-3">BARITE</h3>
             </div><!--end of wrapper-->
         </div>      	        
 
@@ -12,31 +12,40 @@
 
             <div class="grid_8">
                 
-                <p>La barita es un mineral no metálico cuya fórmula química es BaSO4. Es conocida también como baritina o espato pesado.</p>
+                <p>Barite is a non-metallic mineral with the chemical formula BaSO4. it is also well known as heavy spar or barytine.</p>
 
-                <p>Es un material inerte, no tóxico y que tiene un alto peso específico, llegando a ser de hasta 4.5 gr/cc, siendo ésta ultima característica de donde proviene su nombre que es de la palabra griega baros que significa pesado.</p>
+                <p>It is an inert, non-toxic material, that has a high specific weight reaching as much as 4.5 gr/cc, being this last characteristic from where its name derives, which comes from the Greek word baros that means heavy.</p>
 
-                <p>Se encuentra en la naturaleza como masas cristalinas color blanco, verdosas, grisáceas o rojizas. </p>
+                <p>In nature it is found as white, green, gray or red colored crystalline masses. </p>
 
 
-                <h4>PRINCIPALES USOS</h4>
+                <h4>PRIMARY USES</h4>
                 <ul>
-                    <li>El principal uso de la barita en el mundo es en la perforación de pozos petroleros. </li>
+                    <li>Barite’s primary use in the world is as a weighting agent for drilling fluids in oil and gas exploration. </li>
 
-                    <li>También tiene uso en la industria de la pintura, como un pigmento con resistencia a los ácidos. </li>
+                    <li>It is also used in the paint industry as a pigment with high acid resistance. </li>
 
-                    <li>De ella se obtiene el elemento Bario. </li>
+                    <li>Barium is obtained from barite. </li>
 
-                    <li>En la industria automotriz para la fabricación de balatas para frenos. </li>
+                    <li>In the car industry it is used for brake linings and
+                    brake pads manufacturing. </li>
 
-                    <li>En la industria del vidrio como fundente</li>
+                    <li>It is used as a flux in the glass industry.</li>
 
-                    <li>Como protección en los cuartos de rayos X.</li>
+                    <li>As protection in X-ray rooms.</li>
                 </ul>
 
             </div>
 
             <div class="grid_4">
+	            <h4>Products</h4>
+            	<ul style="margin-bottom: 24px;">
+            	    <li><a href="/english/barite">Barite</a></li>
+            	    <li><a href="/english/iron_ore">Iron Ore</a></li>
+            	    <li><a href="/english/frac_sand">Frac Sand</a></li>
+            	    <li><a href="/english/ferric_sand">Ferric Sand</a></li>
+            	</ul>
+            	
             <div class="img_wrapper">
                 <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
                 </div>
@@ -47,12 +56,11 @@
         <div class="wrapper" style="margin-top: 24px;">
             
             <div class="grid_8">
-                <h4>Nuestros Minerales</h4>
+                <h4>Our Minerals</h4>
                 <ul>
-                	<li>Contamos con Barita de alta calidad en diferentes zonas y regiones del país para satisfacer las diferentes necesidades de nuestros clientes.</li>
-                  	<li>Adicionalmente contamos con proveedores a lo largo de América Latina.</li>
-                  	<li>Disponemos de una amplia infraestructura para atender eficientemente la demanda de nuestros clientes.</li>
-                  	<li>Tenemos barita molida en sacos jumbo, barita en malla 200 y barita en breña.</li>
+                	<li>Density of 4.20</li>
+                  	<li>We have mineral in different parts of the country, and we offer a wide infrastructure to efficiently attend our client’s demands.</li>
+                  	<li>Milled barite in jumbo sacs and in breña.</li>
                 </ul>
 
 
@@ -67,8 +75,8 @@
         </div> 
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
-			<p><a href="#">Solicitar mayor informacion</a><br />
-			<a href="#">Marcar como favorito</a></p>
+			<p><a href="/english/contact">Request further information</a><br />
+			</p>
 		
 		</div>
     </div>

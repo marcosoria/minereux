@@ -94,7 +94,7 @@ class Page extends CI_Controller {
 		
 	}
 	
-	public function arena_silica()
+	public function arena_frac()
 	{
 		//$this->load->view('page/home');
 		$data['page_title'] = 'Productos - Arena Silica';
@@ -104,7 +104,7 @@ class Page extends CI_Controller {
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/header', $data);
-		$this->load->view('page/arena-silica', $data);
+		$this->load->view('page/arena-frac', $data);
 		$this->load->view('templates/footer');
 		
 	}

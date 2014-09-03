@@ -38,11 +38,11 @@
             </div>
 
             <div class="grid_4">
-            	<h3>Productos</h3>
+            	<h4>Productos</h4>
             	<ul style="margin-bottom: 24px;">
             	    <li><a href="/page/barita">Barita</a></li>
             	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            	    <li><a href="/page/arena_silica">Arena Frac</a></li>
+            	    <li><a href="/page/arena_frac">Arena Frac</a></li>
             	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
             	</ul>
 	            <div class="img_wrapper">
@@ -75,8 +75,7 @@
         </div> 
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
-			<p><a href="#">Solicitar mayor informacion</a><br />
-			<a href="#">Marcar como favorito</a></p>
+			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>
 		
 		</div>
     </div>

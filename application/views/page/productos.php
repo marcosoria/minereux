@@ -73,7 +73,7 @@
             </div>
             
             <div class="grid_6">
-                <a href="/page/arena_silica">
+                <a href="/page/arena_frac">
                 	<img src="/assets/images/arena_silica_white.jpg" alt="Arena Silica" />
                 	<div class="overlay">
                 		<h3>Arena Frac</h3>
@@ -87,8 +87,8 @@
         </div> 
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
-			<p><a href="#">Solicitar mayor informacion</a><br />
-			<a href="#">Marcar como favorito</a></p>
+			<p><a href="/page/contacto">Solicitar mayor informacion</a><br />
+			</p>
 		
 		</div>
     </div>

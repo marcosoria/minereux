@@ -88,16 +88,16 @@ class English extends CI_Controller {
 		
 	}
 	
-	public function silica_sand()
+	public function frac_sand()
 	{
-		$data['page_title'] = 'Products - Silica Sand';
+		$data['page_title'] = 'Products - Frac Sand';
 		$data['curr_productos'] = 'current';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = '';
 		$this->load->view('templates/english/header', $data);
-		$this->load->view('english/silica-sand', $data);
+		$this->load->view('english/frac-sand', $data);
 		$this->load->view('templates/english/footer');
 		
 	}

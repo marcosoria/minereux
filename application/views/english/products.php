@@ -73,10 +73,10 @@
             </div>
             
             <div class="grid_6">
-                <a href="/english/silica_sand">
+                <a href="/english/frac_sand">
                 	<img src="/assets/images/arena_silica_white.jpg" alt="Arena Silica" />
                 	<div class="overlay">
-                		<h3>Silica Sand</h3>
+                		<h3>Frac Sand</h3>
                 	</div>
                 </a>
 
