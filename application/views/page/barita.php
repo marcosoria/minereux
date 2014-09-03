@@ -9,17 +9,9 @@
         </div>      	        
 
         <div class="wrapper">
-			<div class="grid_2">
-				<h3>Productos</h3>
-				<ul>
-				    <li><a href="/page/barita">Barita</a></li>
-				    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-				    <li><a href="/page/arena_silica">Arena Frac</a></li>
-				    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-				</ul>
-			</div>
 			
-            <div class="grid_6">
+			
+            <div class="grid_8">
                 
                 <p>La barita es un mineral no metálico cuya fórmula química es BaSO4. Es conocida también como baritina o espato pesado.</p>
 
@@ -46,8 +38,15 @@
             </div>
 
             <div class="grid_4">
-            <div class="img_wrapper">
-                <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
+            	<h3>Productos</h3>
+            	<ul style="margin-bottom: 24px;">
+            	    <li><a href="/page/barita">Barita</a></li>
+            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+            	    <li><a href="/page/arena_silica">Arena Frac</a></li>
+            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+            	</ul>
+	            <div class="img_wrapper">
+    	            <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
                 </div>
             </div>
 

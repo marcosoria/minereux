@@ -40,8 +40,15 @@
             </div>
 
             <div class="grid_4">
+            	<h3>Productos</h3>
+            	<ul style="margin-bottom: 24px;">
+            	    <li><a href="/page/barita">Barita</a></li>
+            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+            	    <li><a href="/page/arena_silica">Arena Frac</a></li>
+            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+            	</ul>
 	            <div class="img_wrapper">
-                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />
+	                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />
                 </div>
             </div>
 
