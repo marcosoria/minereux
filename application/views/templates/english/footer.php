@@ -4,8 +4,8 @@
     <div class="container_12">                <div class="grid_6 ff_right">
                    <ul class="menu-footer">            
                 <li><a href="/english/aboutus">About Us</a></li>
-                <li><a href="/english/products">Productos</a></li>
-                <li><a href="/english/routes">Routes</a></li>
+                <li><a href="/english/products">Products</a></li>
+                <li><a href="/english/routes">Distribution</a></li>
                 <li><a href="/english/contact">Contact</a></li>
                  </ul>
                 </div>
