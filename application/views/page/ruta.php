@@ -79,7 +79,7 @@ $(function () {
             </div>
 
             <div class="grid_4">
-                <p>En el mapa presentado a continuación se muestra la ubicación de los puertos en los que descargamos y cargamos material, y las localización de las minas en las que trabajamos actualmente. </p>
+                <p>En el mapa presentado a continuación se muestra la ubicación de los puertos en los que descargamos y cargamos material. </p>
             </div>
 
         </div> 

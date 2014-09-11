@@ -79,7 +79,7 @@
 
                                 <div id="camera_wrap">
                                     <div data-src="/assets/images/slide1new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">WORKING PROFESIONALLY, COMPETENTLY AND COMPETETIVELY</div>
+                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">WORKING PROFESIONALLY, EFFICIENTLY AND COMPETETIVELY</div>
                                         </div>
                                     </div>
                                     <div data-src="/assets/images/slide2new.jpg"> 

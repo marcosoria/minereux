@@ -39,12 +39,7 @@
 
             <div class="grid_4">
             	<h4>Productos</h4>
-            	<ul style="margin-bottom: 24px;">
-            	    <li><a href="/page/barita">Barita</a></li>
-            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            	    <li><a href="/page/arena_frac">Arena Frac</a></li>
-            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-            	</ul>
+            	
 	            <div class="img_wrapper">
     	            <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
                 </div>
@@ -57,19 +52,24 @@
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
                 <ul>
-                	<li>Contamos con Barita de alta calidad en diferentes zonas y regiones del país para satisfacer las diferentes necesidades de nuestros clientes.</li>
-                  	<li>Adicionalmente contamos con proveedores a lo largo de América Latina.</li>
-                  	<li>Disponemos de una amplia infraestructura para atender eficientemente la demanda de nuestros clientes.</li>
-                  	<li>Tenemos barita molida en sacos jumbo, barita en malla 200 y barita en breña.</li>
+                	<li>Densidad de 4.20</li>
+                  	<li>Contamos con mineral de alta calidad en diferentes regiones del continente, y disponemos de la infraestructura para atender eficientemente la demanda de nuestros clientes.</li>
+                  	<li>Presentación en malla 200 en súper saco y barita en breña.</li>
                 </ul>
 
 
             </div>
 
             <div class="grid_4">
-            <div class="img_wrapper">
+	            <div class="img_wrapper">
                 <img src="/assets/images/barita3.jpg" alt="Barita" style="width: 100%;" />
                 </div>
+	            <ul style="margin-bottom: 24px;">
+	                <li><a href="/page/barita">Barita</a></li>
+	                <li><a href="/page/hierro">Mineral de Hierro</a></li>
+	                <li><a href="/page/arena_frac">Arena Frac</a></li>
+	                <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+	            </ul>
             </div>
 
         </div> 

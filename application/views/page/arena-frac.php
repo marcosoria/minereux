@@ -37,13 +37,7 @@
             </div>
 
             <div class="grid_4">
-            	<h4>Productos</h4>
-            	<ul style="margin-bottom: 24px;">
-            	    <li><a href="/page/barita">Barita</a></li>
-            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            	    <li><a href="/page/arena_frac">Arena Frac</a></li>
-            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-            	</ul>
+            	
             	<div class="img_wrapper">
 	                <img src="/assets/images/frac1.jpg" alt="Arena Frac" style="width: 100%;" />
                 </div>
@@ -61,9 +55,8 @@
                 <h4>Nuestros Minerales</h4>
                 <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">
                 <ul>
-                	<li>Contmos con <span class="orange">Arena Frac</span> en mallas de 20/40, 30/50, 40/70 y 100, cumpliendo los &iacute;ndices de calidad PSL.</li>
-                	<li>Adicionalmente contamos con procesadores de arena en los estados de Minnesota, Arkansas y Texas.</li>
-                	<li>Actualmente contamos con una capacidad menusal de 300,000 toneladas.</li>
+                	<li>Contamos con material en mallas 20/40, 30/50, 40/70 y 100 cumpliendo los índices de calidad PSI.</li>
+                	<li>Los puertos de embarque están en los estados de Minnesota, Arkansas y Texas.</li>
                 </ul>
                   </p>
             </div>
@@ -72,6 +65,13 @@
             	<div class="img_wrapper">
 	                <img src="/assets/images/frac2.jpg" alt="Arena Frac" style="width: 100%;" />
 				</div>
+				<h4>Productos</h4>
+				<ul style="margin-bottom: 24px;">
+				    <li><a href="/page/barita">Barita</a></li>
+				    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+				    <li><a href="/page/arena_frac">Arena Frac</a></li>
+				    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+				</ul>
 
             </div>
 

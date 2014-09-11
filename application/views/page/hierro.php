@@ -34,13 +34,7 @@
             </div>
 
             <div class="grid_4">
-            	<h4>Productos</h4>
-            	<ul style="margin-bottom: 24px;">
-            	    <li><a href="/page/barita">Barita</a></li>
-            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            	    <li><a href="/page/arena_frac">Arena Frac</a></li>
-            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-            	</ul>
+            	
             	<div class="img_wrapper">
                 <img src="/assets/images/hierro1.jpg" alt="Mineral de Hierro" style="width: 100%;" />
                 </div>
@@ -57,8 +51,7 @@
             <div class="grid_8">
                 <h4>Nuestros Minerales</h4>
                 <ul>
-                	<li>Disponemos de Mineral de Hierro a partir de  62% ley y de baja ley del 52% al 58%</li>
-                  	<li>Tenemos una capacidad mensual arriba de 200,000 toneladas con posibilidad de incrementarla conforme a las necesidades de nuestros clientes.</li>
+                	<li>Disponemos de Mineral de Hierro a partir de  62% ley y de baja ley del 52% al 58%</li>                  	
                 	<li>Actualmente contamos con mineral en los países de, Chile, Perú y México. </li>
                 </ul>
                 
@@ -67,9 +60,15 @@
             <div class="grid_4">
             	
             	<div class="img_wrapper">
-                <img src="/assets/images/hierro3.jpg" alt="Mineral de Hierro" style="width: 100%;" />
-</div>
-
+                	<img src="/assets/images/hierro3.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+				</div>
+				<h4>Productos</h4>
+				<ul style="margin-bottom: 24px;">
+				    <li><a href="/page/barita">Barita</a></li>
+				    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+				    <li><a href="/page/arena_frac">Arena Frac</a></li>
+				    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+				</ul>
             </div>
 
 

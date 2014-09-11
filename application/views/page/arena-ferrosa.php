@@ -40,15 +40,17 @@
             </div>
 
             <div class="grid_4">
-            	<h4>Productos</h4>
-            	<ul style="margin-bottom: 24px;">
-            	    <li><a href="/page/barita">Barita</a></li>
-            	    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-            	    <li><a href="/page/arena_frac">Arena Frac</a></li>
-            	    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-            	</ul>
+            	
 	            <div class="img_wrapper">
 	                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />
+	                
+	                <h4>Productos</h4>
+	                <ul style="margin-bottom: 24px;">
+	                    <li><a href="/page/barita">Barita</a></li>
+	                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+	                    <li><a href="/page/arena_frac">Arena Frac</a></li>
+	                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+	                </ul>
                 </div>
             </div>
 
@@ -64,9 +66,8 @@
                 <h4>Nuestros Minerales</h4>
                 <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">
                 <ul>
-                <li>Disponemos de <span class="orange">Arenas Ferrosas</span> a partir de 65% ley.</li>
-                <li>Tenemos capacidad mensual de 100,000 toneladas con posibilidad de incrementarla de acuerdo a las necesidades de nuestros clientes.</li>
-                <li>Los puertos de embarque est&aacute;n en <span class="orange">Chile</span> y <span class="orange">M&eacute;xico</span></li>
+                <li>Disponemos de mineral a partir de 65% ley.</li>
+                <li>Los puertos de embarque están en Chile y México.</li>
                 </ul>
                   </p>
             </div>
