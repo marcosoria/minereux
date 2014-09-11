@@ -35,53 +35,38 @@
 
                     <li> Para recubrimiento de superficies. </li>
                 </ul>
-
+				
+				<h4>Nuestros Minerales</h4>
+				
+				<ul>
+					<li>Disponemos de mineral a partir de 65% ley.</li>
+					<li>Los puertos de embarque están en Chile y México.</li>
+				</ul>
+				
 
             </div>
 
             <div class="grid_4">
             	
 	            <div class="img_wrapper">
-	                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />
-	                
-	                <h4>Productos</h4>
-	                <ul style="margin-bottom: 24px;">
-	                    <li><a href="/page/barita">Barita</a></li>
-	                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-	                    <li><a href="/page/arena_frac">Arena Frac</a></li>
-	                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-	                </ul>
+	                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />	                	                
                 </div>
-            </div>
-
-
-
-        </div> 
-
-        <div class="wrapper" style="margin-top: 24px;">
-
-
-
-            <div class="grid_8">
-                <h4>Nuestros Minerales</h4>
-                <p style="line-height: 1.1em;font-size: 0.9em; margin-top: 12px;">
-                <ul>
-                <li>Disponemos de mineral a partir de 65% ley.</li>
-                <li>Los puertos de embarque están en Chile y México.</li>
-                </ul>
-                  </p>
-            </div>
-
-            <div class="grid_4">
-            	<div class="img_wrapper2">
                 
-				</div>
-
+                <h4>Productos</h4>
+                <ul style="margin-bottom: 24px;">
+                    <li><a href="/page/barita">Barita</a></li>
+                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+                    <li><a href="/page/arena_frac">Arena Frac</a></li>
+                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+                </ul>
+                
             </div>
 
 
 
         </div> 
+
+       
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>

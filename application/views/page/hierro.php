@@ -30,50 +30,39 @@
                     <li>Para la producción de piezas para la industria metal-mecánica.</li>
                 </ul>
 
-
+				<h4>Nuestros Minerales</h4>
+				<ul>
+					<li>Disponemos de Mineral de Hierro a partir de  62% ley y de baja ley del 52% al 58%</li>                  	
+					<li>Actualmente contamos con mineral en los países de, Chile, Perú y México. </li>
+				</ul>
+				
             </div>
 
             <div class="grid_4">
             	
             	<div class="img_wrapper">
-                <img src="/assets/images/hierro1.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+                	<img src="/assets/images/hierro1.jpg" alt="Mineral de Hierro" style="width: 100%;" />
                 </div>
-            </div>
-
-
-
-        </div> 
-
-        <div class="wrapper" style="margin-top: 24px;">
-
-
-
-            <div class="grid_8">
-                <h4>Nuestros Minerales</h4>
-                <ul>
-                	<li>Disponemos de Mineral de Hierro a partir de  62% ley y de baja ley del 52% al 58%</li>                  	
-                	<li>Actualmente contamos con mineral en los países de, Chile, Perú y México. </li>
+                
+                <div class="img_wrapper">
+                	<img src="/assets/images/hierro3.jpg" alt="Mineral de Hierro" style="width: 100%;" />
+                </div>
+                
+                <h4>Productos</h4>
+                <ul style="margin-bottom: 24px;">
+                    <li><a href="/page/barita">Barita</a></li>
+                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+                    <li><a href="/page/arena_frac">Arena Frac</a></li>
+                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
                 </ul>
                 
             </div>
 
-            <div class="grid_4">
-            	
-            	<div class="img_wrapper">
-                	<img src="/assets/images/hierro3.jpg" alt="Mineral de Hierro" style="width: 100%;" />
-				</div>
-				<h4>Productos</h4>
-				<ul style="margin-bottom: 24px;">
-				    <li><a href="/page/barita">Barita</a></li>
-				    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-				    <li><a href="/page/arena_frac">Arena Frac</a></li>
-				    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-				</ul>
-            </div>
-
 
 
         </div> 
+
+        
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>

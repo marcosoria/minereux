@@ -34,22 +34,7 @@
 
                     <li>Como protección en los cuartos de rayos X.</li>
                 </ul>
-
-            </div>
-
-            <div class="grid_4">
-            	<h4>Productos</h4>
-            	
-	            <div class="img_wrapper">
-    	            <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
-                </div>
-            </div>
-
-        </div> 
-
-        <div class="wrapper" style="margin-top: 24px;">
-            
-            <div class="grid_8">
+                
                 <h4>Nuestros Minerales</h4>
                 <ul>
                 	<li>Densidad de 4.20</li>
@@ -57,22 +42,30 @@
                   	<li>Presentación en malla 200 en súper saco y barita en breña.</li>
                 </ul>
 
-
             </div>
 
             <div class="grid_4">
+            	
+            	
 	            <div class="img_wrapper">
-                <img src="/assets/images/barita3.jpg" alt="Barita" style="width: 100%;" />
+    	            <img src="/assets/images/barita1.jpg" alt="Barita" style="width: 100%;" />
                 </div>
-	            <ul style="margin-bottom: 24px;">
-	                <li><a href="/page/barita">Barita</a></li>
-	                <li><a href="/page/hierro">Mineral de Hierro</a></li>
-	                <li><a href="/page/arena_frac">Arena Frac</a></li>
-	                <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-	            </ul>
+                
+                <div class="img_wrapper">
+                	<img src="/assets/images/barita3.jpg" alt="Barita" style="width: 100%;" />
+                </div>
+                <h4>Productos</h4>
+                <ul style="margin-bottom: 24px;">
+                    <li><a href="/page/barita">Barita</a></li>
+                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+                    <li><a href="/page/arena_frac">Arena Frac</a></li>
+                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+                </ul>
             </div>
 
         </div> 
+
+       
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>

@@ -1228,3 +1228,16 @@ min-width:300px;
 }
 
 }
+
+.img_wrapper{
+	margin-bottom: 24px;
+}
+
+.grid_12 h3{
+	margin-bottom: 12px;
+}
+
+.grid_8 h4{
+	margin-top: 24px;
+	margin-bottom: 12px;
+}
