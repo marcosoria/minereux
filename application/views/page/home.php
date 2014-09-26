@@ -63,7 +63,7 @@
         
         </script>
     </head>
-    <body id="page-1" style="background: url(/assets/images/body.png) 0 0 repeat-x #404040;">
+    <body id="page-1">
         <!--==============================header=================================-->
         <div class="main">
             <div class="head">      
@@ -79,16 +79,18 @@
 
                                 <div id="camera_wrap">
                                     <div data-src="/assets/images/slide1new.jpg">
+                                        <!--
                                         <div class="banner carobot caption fadeIn"><div class="inner-banner">TRABAJAMOS PROFESIONAL, EFICIENTE Y COMPETITIVAMENTE</div>
-                                        </div>
+                                        </div>-->
                                     </div>
                                     <div data-src="/assets/images/slide2new.jpg"> 
+                                    	<!--
                                         <div class="banner carobot caption fadeIn"><div class="inner-banner">OFRECEMOS PRODUCTOS Y SERVICIOS DE CALIDAD</div>
-                                        </div>
+                                        </div>-->
                                     </div>
                                     <div data-src="/assets/images/slide3new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">CONTAMOS CON CRECIENTES CANALES DE DISTRIBUCIÓN</div>
-                                        </div>
+                                        <!--<div class="banner carobot caption fadeIn"><div class="inner-banner">CONTAMOS CON CRECIENTES CANALES DE DISTRIBUCIÓN</div>
+                                        </div>-->
                                     </div>
 
 

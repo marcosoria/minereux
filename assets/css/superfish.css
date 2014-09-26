@@ -14,7 +14,8 @@ ul.sf-menu li:hover li ul,ul.sf-menu li.sfHover li ul {top:-999px; display:none;
 ul.sf-menu li li:hover ul,ul.sf-menu li li.sfHover ul {left:100%; top:0;z-index:999}
 ul.sf-menu>li{
   /*background: url(../images/bg-li.jpg) left 0 repeat-y;*/
-  background-color: #bfbfbf;
+  /*background-color: #bfbfbf;*/
+  background: url(/assets/images/menu_bg.png) left 0 repeat-x;
   font-family: 'Open Sans Condensed';
   font-size: 16px; 
   line-height:20px;
@@ -52,7 +53,10 @@ ul.sf-menu>li.current , ul.sf-menu>li.sfHover , ul.sf-menu>li:hover {
 	/*background: url(../images/bg-li-hov.jpg) 0 0 repeat;*/
 	background-color: #007b86;
 	}
-ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{color:#fff;}
+ul.sf-menu>li.current>a, ul.sf-menu>li.sfHover>a, ul.sf-menu>li>a:hover{
+	color:#fff;
+	background: url(/assets/images/menu_bg.png) bottom left 0 repeat-x;	
+}
 
 .sf-menu>li>ul{
 	left:0;
