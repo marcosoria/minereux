@@ -78,19 +78,14 @@
                             <div class="slider_wrapper">           
 
                                 <div id="camera_wrap">
-                                    <div data-src="/assets/images/slide1new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">WORKING PROFESIONALLY, EFFICIENTLY AND COMPETETIVELY</div>
-                                        </div>
+                                    <div data-src="/assets/images/slide1new.jpg">                                        
                                     </div>
                                     <div data-src="/assets/images/slide2new.jpg"> 
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">OFFERING HIGH QUALITY PRODUCTS AND SERVICES</div>
-                                        </div>
                                     </div>
                                     <div data-src="/assets/images/slide3new.jpg">
-                                        <div class="banner carobot caption fadeIn"><div class="inner-banner">CONSTANTLY INCREASING DISTRIBUTION CHANNELS</div>
-                                        </div>
                                     </div>
-
+									<div data-src="/assets/images/slide4b.jpg">
+									</div>
 
 
                                 </div></div>

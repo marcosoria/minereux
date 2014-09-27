@@ -23,7 +23,7 @@ ul.sf-menu>li{
   display:block;
   float:left; 
   position:relative;
-  width:188px;
+  width:235px; /*188*/
   text-transform:uppercase;
   }
 /*

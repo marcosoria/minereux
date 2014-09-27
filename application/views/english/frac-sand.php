@@ -1,3 +1,16 @@
+<style>
+body{
+	background: url('/assets/images/cinta-frac.jpg') repeat-x 0 100px;
+}
+
+.head{
+	height: 308px;
+}
+
+nav{
+	margin-top: 100px;
+}
+</style>
 <!--==============================content================================-->
 <section id="content">         
     <div class="container_12">
@@ -39,13 +52,7 @@
             </div>
 
             <div class="grid_4">
-            	<h4>Products</h4>
-            	<ul style="margin-bottom: 24px;">
-            	    <li><a href="/english/barite">Barite</a></li>
-            	    <li><a href="/english/iron_ore">Iron Ore</a></li>
-            	    <li><a href="/english/frac_sand">Frac Sand</a></li>
-            	    <li><a href="/english/ferric_sand">Ferric Sand</a></li>
-            	</ul>
+            	
             	<div class="img_wrapper">
 	                <img src="/assets/images/frac1.jpg" alt="Arena Frac" style="width: 100%;" />
                 </div>
@@ -83,7 +90,12 @@
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/english/contact">Request further information</a>
 			</p>
-		
+			<ul class="bottom_prod">
+			    <li><a href="/english/barite">Barite</a></li>
+			    <li><a href="/english/iron_ore">Iron Ore</a></li>
+			    <li><a href="/english/frac_sand">Frac Sand</a></li>
+			    <li><a href="/english/ferric_sand">Ferric Sand</a></li>
+			</ul>
 		</div>
     </div>
 </section>

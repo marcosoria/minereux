@@ -92,7 +92,10 @@
                                         <!--<div class="banner carobot caption fadeIn"><div class="inner-banner">CONTAMOS CON CRECIENTES CANALES DE DISTRIBUCIÓN</div>
                                         </div>-->
                                     </div>
-
+									<div data-src="/assets/images/slide4b.jpg">
+									    <!--<div class="banner carobot caption fadeIn"><div class="inner-banner">CONTAMOS CON CRECIENTES CANALES DE DISTRIBUCIÓN</div>
+									    </div>-->
+									</div>
 
 
                                 </div></div>

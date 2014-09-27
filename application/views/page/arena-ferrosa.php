@@ -1,3 +1,16 @@
+<style>
+body{
+	background: url('/assets/images/cinta-ferrosa.jpg') repeat-x 0 100px;
+}
+
+.head{
+	height: 308px;
+}
+
+nav{
+	margin-top: 100px;
+}
+</style>
 <!--==============================content================================-->
 <section id="content">         
     <div class="container_12">
@@ -52,13 +65,8 @@
 	                <img src="/assets/images/arenaferrosa1.jpg" alt="Arena Silica" style="width: 100%;" />	                	                
                 </div>
                 
-                <h4>Productos</h4>
-                <ul style="margin-bottom: 24px;">
-                    <li><a href="/page/barita">Barita</a></li>
-                    <li><a href="/page/hierro">Mineral de Hierro</a></li>
-                    <li><a href="/page/arena_frac">Arena Frac</a></li>
-                    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
-                </ul>
+                
+                
                 
             </div>
 
@@ -70,7 +78,13 @@
 
 		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>
-		
+			<ul class="bottom_prod">
+			    <li><a href="/page/barita">Barita</a></li>
+			    <li><a href="/page/hierro">Mineral de Hierro</a></li>
+			    <li><a href="/page/arena_frac">Arena Frac</a></li>
+			    <li><a href="/page/arena_ferrosa">Arena Ferrosa</a></li>
+			</ul>
+			
 		</div>
     </div>
 </section>
