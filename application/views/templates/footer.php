@@ -5,7 +5,7 @@
                    <ul class="menu-footer">            
                 <li><a href="/page/nosotros">Nosotros</a></li>
                 <li><a href="/page/productos">Productos</a></li>
-                <li><a href="/page/ruta">Distribuci&oacute;n</a></li>
+                <!--<li><a href="/page/ruta">Distribuci&oacute;n</a></li>-->
                 <li><a href="/page/contacto">Contacto</a></li>
                  </ul>
                 </div>
