@@ -87,7 +87,7 @@ nav{
 
         </div> 
 
-		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
+		<div class="wrapper" style="height:42px; margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/english/contact">Request further information</a>
 			</p>
 			<ul class="bottom_prod">

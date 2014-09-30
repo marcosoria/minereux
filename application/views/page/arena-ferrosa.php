@@ -76,7 +76,7 @@ nav{
 
        
 
-		<div class="wrapper" style="margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
+		<div class="wrapper" style="height:42px; margin-top: 12px; padding-top: 12px; border-top: 1px dashed #333;">
 			<p><a href="/page/contacto">Solicitar mayor informacion</a></p>
 			<ul class="bottom_prod">
 			    <li><a href="/page/barita">Barita</a></li>
