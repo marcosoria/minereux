@@ -66,19 +66,19 @@ $(function () {
                                         <strong>Nos pondremos en contacto contigo lo antes posible.</strong> </div></div>
                                 <fieldset>
                                     <label class="name">
-                                        <input type="text" value="" placeholder="Tu Nombre:">
+                                        <input type="text" name="nombre" id="nombre" value="" placeholder="Tu Nombre:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid name.</span><span class="empty error-empty">*This field is required.</span> </label> <label class="phone">
                                         <input type="tel" value="" placeholder="Tu Telefono:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid phone number.</span><span class="empty error-empty">*This field is required.</span> </label>
                                     <label class="email">
-                                        <input type="text" value="" placeholder="Tu Email:">
+                                        <input type="text" name="email" id="email" value="" placeholder="Tu Email:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid email address.</span><span class="empty error-empty">*This field is required.</span> </label>
             
                                     <label class="message">
-                                        <textarea name="message" placeholder="Tu Mensaje:"></textarea>
+                                        <textarea name="message" id="message" placeholder="Tu Mensaje:"></textarea>
                                         <br class="clear">
                                         <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span> </label>
                                     <div class="clear"></div>

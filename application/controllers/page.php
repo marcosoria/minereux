@@ -141,16 +141,48 @@ class Page extends CI_Controller {
 	
 	public function contacto()
 	{
-		//$this->load->view('page/home');
+		
 		$data['page_title'] = 'Contacto';
 		$data['curr_productos'] = '';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = 'current';
-		$this->load->view('templates/header', $data);
-		$this->load->view('page/contacto', $data);
-		$this->load->view('templates/footer');
+		
+		$this->load->helper('form');
+		$this->load->library('form_validation');
+	
+		
+	
+		$this->form_validation->set_rules('nombre', 'nombre', 'required');
+		$this->form_validation->set_rules('email', 'email', 'required');
+		$this->form_validation->set_rules('message', 'message', 'required');
+	
+		if ($this->form_validation->run() === FALSE)
+		{	
+			
+			$this->load->view('templates/header', $data);
+			$this->load->view('page/contacto', $data);
+			$this->load->view('templates/footer');
+		}
+		else
+		{
+			$from = $this->input->post('email'); // sender
+			$subject = "Nuevo mensaje de minereux.com";
+			$message = $this->input->post('message');
+			// message lines should not exceed 70 characters (PHP rule), so wrap it
+			$message = wordwrap($message, 70);
+			    // send mail
+			mail("ingsoria@gmail.com",$subject,$message,"From: $from\n");
+			echo "Thank you for sending us feedback";
+			//redirect('/admin/pages/index', 'refresh');
+		}
+		
+		
+		
+		//$this->load->view('page/home');
+		
+		
 		
 	}
 }
