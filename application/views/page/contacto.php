@@ -60,13 +60,13 @@ $(function () {
                             
                             <p>
                             Utilice el siguiente formulario para hacernos llegar sus dudas, comentarios y / o sugerencias. Sus comentarios son muy importantes para nosotros.</p>
-                            <?php echo form_open('/page/contacto') ?>
-                                <div class="success_wrapper">
-                                    <div class="success">Forma enviada correctamente!<br>
-                                        <strong>Nos pondremos en contacto contigo lo antes posible.</strong> </div></div>
+							<?php echo validation_errors(); ?>
+							<?php $attributes = array('id' => 'form'); ?>
+                            <?php echo form_open('/page/contacto', $attributes) ?>
+                                
                                 <fieldset>
                                     <label class="name">
-                                        <input type="text" name="nombre" id="nombre" value="" placeholder="Tu Nombre:">
+                                        <input type="text" name="nombre" value="" placeholder="Tu Nombre:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid name.</span><span class="empty error-empty">*This field is required.</span> </label> <label class="phone">
                                         <input type="tel" value="" placeholder="Tu Telefono:">
@@ -80,9 +80,9 @@ $(function () {
                                     <label class="message">
                                         <textarea name="message" id="message" placeholder="Tu Mensaje:"></textarea>
                                         <br class="clear">
-                                        <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span> </label>
+                                    </label>
                                     <div class="clear"></div>
-                                    <div class="btns"><a class="button" data-type="reset" href="#">Borrar</a><a class="button" data-type="submit" href="#">Enviar</a>
+                                    <div class="btns"><a class="button" data-type="reset" href="#">Borrar</a><button type="submit" class="button" data-type="submit" href="#">Enviar</button>
             
                                         <div class="clear"></div>
                                     </div></fieldset></form>
