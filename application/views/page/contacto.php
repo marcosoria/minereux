@@ -60,7 +60,7 @@ $(function () {
                             
                             <p>
                             Utilice el siguiente formulario para hacernos llegar sus dudas, comentarios y / o sugerencias. Sus comentarios son muy importantes para nosotros.</p>
-                            <form id="form">
+                            <?php echo form_open('/page/contacto') ?>
                                 <div class="success_wrapper">
                                     <div class="success">Forma enviada correctamente!<br>
                                         <strong>Nos pondremos en contacto contigo lo antes posible.</strong> </div></div>

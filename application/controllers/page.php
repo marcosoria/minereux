@@ -175,7 +175,7 @@ class Page extends CI_Controller {
 			    // send mail
 			mail("ingsoria@gmail.com",$subject,$message,"From: $from\n");
 			echo "Thank you for sending us feedback";
-			//redirect('/admin/pages/index', 'refresh');
+			redirect('/admin/pages/index', 'refresh');
 		}
 		
 		
