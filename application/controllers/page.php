@@ -170,12 +170,20 @@ class Page extends CI_Controller {
 			$from = $this->input->post('email'); // sender
 			$subject = "Nuevo mensaje de minereux.com";
 			$message = $this->input->post('message');
+			
+			$message .= "<br />Nombre: {$this->input->post('email')}";
+			$message .= "<br />Email: {$this->input->post('email')}";
+			$message .= "<br />Telefono: {$this->input->post('telefono')}";
 			// message lines should not exceed 70 characters (PHP rule), so wrap it
 			$message = wordwrap($message, 70);
 			    // send mail
-			mail("ingsoria@gmail.com",$subject,$message,"From: $from\n");
-			echo "Thank you for sending us feedback";
+			mail("mleal@minereux.com",$subject,$message,"From: $from\n");
+			
+			$data['mensaje'] = 'Correo enviado correctamente. Pronto nos pondremos en contacto contigo.';
 			//redirect('/admin/pages/index', 'refresh');
+			$this->load->view('templates/header', $data);
+			$this->load->view('page/contacto', $data);
+			$this->load->view('templates/footer');
 		}
 		
 		

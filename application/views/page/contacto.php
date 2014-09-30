@@ -61,6 +61,7 @@ $(function () {
                             <p>
                             Utilice el siguiente formulario para hacernos llegar sus dudas, comentarios y / o sugerencias. Sus comentarios son muy importantes para nosotros.</p>
 							<?php echo validation_errors(); ?>
+							<?php echo $mensaje ?>
 							<?php $attributes = array('id' => 'form'); ?>
                             <?php echo form_open('/page/contacto', $attributes) ?>
                                 
@@ -69,7 +70,7 @@ $(function () {
                                         <input type="text" name="nombre" value="" placeholder="Tu Nombre:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid name.</span><span class="empty error-empty">*This field is required.</span> </label> <label class="phone">
-                                        <input type="tel" value="" placeholder="Tu Telefono:">
+                                        <input type="tel" value="" nama="telefono" placeholder="Tu Telefono:">
                                         <br class="clear">
                                         <span class="error error-empty">*This is not a valid phone number.</span><span class="empty error-empty">*This field is required.</span> </label>
                                     <label class="email">
