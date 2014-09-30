@@ -148,7 +148,7 @@ class Page extends CI_Controller {
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = 'current';
-		
+		$data['mensaje'] = '';
 		$this->load->helper('form');
 		$this->load->library('form_validation');
 	
