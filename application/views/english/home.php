@@ -69,7 +69,7 @@
             <div class="head">      
                 <header class="container_12">
                     
-                    <a href="/" class="flag_mex">Español</a>
+                    <a href="/" class="flag_mex">IDIOMA: Español</a>
                     <div class="clear"></div>
 
 
