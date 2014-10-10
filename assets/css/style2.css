@@ -202,11 +202,7 @@ h1{
 	width:276px;
 	height:58px;
 	margin:0 auto;
-	padding:0;
-	position:absolute;
-	bottom:100px;
-	right:24px;
-	z-index:10000;
+	padding:0;	
 	}
 h1 a{
 	display:inline-block;
