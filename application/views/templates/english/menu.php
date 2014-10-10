@@ -1,7 +1,7 @@
 <ul class="sf-menu">
     <li><a href="/english/index">Home</a></li>
     <li class="<?php echo $curr_nosotros ?>">
-        <a href="/english/about_us">About Us</a>
+        <a href="/english/about_us">Us</a>
         <!--
         <ul>
             <li><a href="#">Historia</a></li>
