@@ -15,11 +15,11 @@ text-decoration:none;
 }
 
 .flag_mex{
-	width: 48px;
+	width: 148px;
 	height: 48px;
 	display: block;
-	background:  url('/assets/images/flag_mex.png') no-repeat left top;
-	text-indent: -100000px;
+	/*background:  url('/assets/images/flag_mex.png') no-repeat left top;*/
+	text-indent: 0px;
 	position: absolute;
 	top: 30px;
 	right: 10px;
@@ -27,11 +27,11 @@ text-decoration:none;
 
 .flag_usa{
 	
-	width: 48px;
+	width: 148px;
 	height: 48px;
 	display: block;
-	background:  url('/assets/images/flag_usa.png') no-repeat left top;
-	text-indent: -100000px;
+	/*background:  url('/assets/images/flag_usa.png') no-repeat left top;*/
+	text-indent: 0;
 	position: absolute;
 	top: 30px;
 	right: 10px;
