@@ -74,7 +74,7 @@
 
 
                     <div class="grid_12">
-						<h1 style="position:absolute; z-index:10000; botto :100px; right:24px"><a href="/"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
+						<h1 style="position:absolute; z-index:10000; bottom :100px; right:24px"><a href="/"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
                         <div id="slide">
                             <div class="slider_wrapper">           
 
