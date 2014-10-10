@@ -63,7 +63,7 @@
         
         </script>
     </head>
-    <body id="page-1" style="background: url(/assets/images/body.png) 0 0 repeat-x #404040;">
+    <body id="page-1" style="">
         <!--==============================header=================================-->
         <div class="main">
             <div class="head">      
