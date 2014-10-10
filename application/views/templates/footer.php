@@ -10,7 +10,7 @@
                  </ul>
                 </div>
               <div class="grid_6">
-                <p><a href="index.html"><img src="/assets/images/logo_gray.png" alt="" height="48"></a> <span>&copy; <?php echo date('Y') ?>  <br><!--{%FOOTER_LINK} --></span></p>
+                <p><a href="index.html"><img src="/assets/images/logo_gray.png" alt="" height="32"></a> <span>&copy; <?php echo date('Y') ?>  <br><!--{%FOOTER_LINK} --></span></p>
                     <div class="icons">
                     <!--
                        <a href="#" id="icon"></a>

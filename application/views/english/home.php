@@ -68,20 +68,22 @@
         <div class="main">
             <div class="head">      
                 <header class="container_12">
-                    <h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
+                    
                     <a href="/" class="flag_mex">Español</a>
                     <div class="clear"></div>
 
 
                     <div class="grid_12">
+						<h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
                         <div id="slide">
                             <div class="slider_wrapper">           
 
                                 <div id="camera_wrap">
-                                    <div data-src="/assets/images/slide1new.jpg">                                        
-                                    </div>
                                     <div data-src="/assets/images/slide2new.jpg"> 
                                     </div>
+									<div data-src="/assets/images/slide1new.jpg">                                        
+                                    </div>
+                                    
                                     <div data-src="/assets/images/slide3new.jpg">
                                     </div>
 									<div data-src="/assets/images/slide4b.jpg">
