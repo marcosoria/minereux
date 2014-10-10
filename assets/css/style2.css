@@ -622,8 +622,8 @@ footer{
 	text-indent:0;
 	}
 .main-footer{
-	padding-top: 100px; 
-	padding-bottom: 100px;
+	padding-top: 0px; 
+	padding-bottom: 0px;
 	}
 .main-footer p span{
 	display:inline-block;
