@@ -69,7 +69,7 @@
             <div class="head">      
                 <header class="container_12">
                     <h1><a href="/"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
-					<div class="flag_usa"><strong>LANGUAGE: English</strong> | <a href="/page" class="">IDIOMA: Espa&ntilde;ol</a></div>
+					<div class="flag_usa"><a href="/page" class="">IDIOMA: Espa&ntilde;ol</a></div>
                     <div class="clear"></div>
                     <nav class="grid_12"> 
                         <?php $this->load->view('templates/english/menu.php'); ?>

@@ -69,7 +69,7 @@
             <div class="head">      
                 <header class="container_12">
                     
-                    <div class="flag_usa"><strong>IDIOMA: Espa&ntilde;ol</strong> | <a href="/english" class="">LANGUAGE: English</a></div>
+                    <div class="flag_usa"><a href="/english" class="">LANGUAGE: English</a></div>
                     <div class="clear"></div>
 
 
