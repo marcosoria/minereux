@@ -1,5 +1,5 @@
 <ul class="sf-menu">
-    <li><a href="/">Inicio</a></li>
+    <li><a href="/page">Inicio</a></li>
     <li class="<?php echo $curr_nosotros ?>">
         <a href="/page/nosotros">Nosotros</a>
         <!--
