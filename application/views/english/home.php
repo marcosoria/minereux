@@ -69,12 +69,12 @@
             <div class="head">      
                 <header class="container_12">
                     
-                    <a href="/" class="flag_mex">IDIOMA: Español</a>
+                    <a href="/page" class="flag_mex">IDIOMA: Español</a>
                     <div class="clear"></div>
 
 
                     <div class="grid_12">
-						<h1><a href="index.html"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
+						<h1><a href="/"><img src="/assets/images/logo.png" alt="" height="58"></a></h1>
                         <div id="slide">
                             <div class="slider_wrapper">           
 
