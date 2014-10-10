@@ -203,7 +203,7 @@ h1{
 	height:58px;
 	margin:0 auto;
 	padding:0;
-	position:abtolute;
+	position:absolute;
 	bottom:100px;
 	right:24px;
 	z-index:10000;
