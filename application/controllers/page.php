@@ -141,16 +141,56 @@ class Page extends CI_Controller {
 	
 	public function contacto()
 	{
-		//$this->load->view('page/home');
+		
 		$data['page_title'] = 'Contacto';
 		$data['curr_productos'] = '';
 		$data['curr_nosotros'] = '';
 		$data['curr_servicios'] = '';
 		$data['curr_blog'] = '';
 		$data['curr_contacto'] = 'current';
-		$this->load->view('templates/header', $data);
-		$this->load->view('page/contacto', $data);
-		$this->load->view('templates/footer');
+		$data['mensaje'] = '';
+		$this->load->helper('form');
+		$this->load->library('form_validation');
+	
+		
+	
+		$this->form_validation->set_rules('nombre', 'nombre', 'required');
+		$this->form_validation->set_rules('email', 'email', 'required');
+		$this->form_validation->set_rules('message', 'message', 'required');
+	
+		if ($this->form_validation->run() === FALSE)
+		{	
+			
+			$this->load->view('templates/header', $data);
+			$this->load->view('page/contacto', $data);
+			$this->load->view('templates/footer');
+		}
+		else
+		{
+			$from = $this->input->post('email'); // sender
+			$subject = "Nuevo mensaje de minereux.com";
+			$message = $this->input->post('message');
+			
+			$message .= "<br />Nombre: {$this->input->post('email')}";
+			$message .= "<br />Email: {$this->input->post('email')}";
+			$message .= "<br />Telefono: {$this->input->post('telefono')}";
+			// message lines should not exceed 70 characters (PHP rule), so wrap it
+			$message = wordwrap($message, 70);
+			    // send mail
+			mail("mleal@minereux.com",$subject,$message,"From: $from\n");
+			
+			$data['mensaje'] = 'Correo enviado correctamente. Pronto nos pondremos en contacto contigo.';
+			//redirect('/admin/pages/index', 'refresh');
+			$this->load->view('templates/header', $data);
+			$this->load->view('page/contacto', $data);
+			$this->load->view('templates/footer');
+		}
+		
+		
+		
+		//$this->load->view('page/home');
+		
+		
 		
 	}
 }
